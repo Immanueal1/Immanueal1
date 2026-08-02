@@ -121,7 +121,7 @@
     <td width="50%" valign="top">
       <br/>
       <p align="center">
-        <img src="./assets/microplastic_analyzer.png" width="380px" style="border-radius: 8px; border: 1px solid #1E293B;" alt="Smart IoT Medicine Dispenser"/>
+        <img src="./assets/oled_interface.png" width="380px" style="border-radius: 8px; border: 1px solid #1E293B;" alt="Smart IoT Medicine Dispenser Interface"/>
       </p>
       <h3>💊 4. Smart IoT Automated Medicine Dispenser</h3>
       <p>Automated medication appliance with timed rotating compartments, optical release verification, and Cloud alerts.</p>
@@ -144,29 +144,33 @@
 
 ## 🛠️ Tech Stack & Engineering Toolbox
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,arduino,raspberrypi,stm32,tensorflow,pytorch,opencv,numpy,pandas,kicad,ps,ai,pr,lr,vscode,git,github&theme=dark" alt="Engineering Skill Showcase Grid" />
+</div>
+
+<br/>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>💻 Programming Languages</h4>
       <p>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C Programming"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/></a> &nbsp;&nbsp;
-        <a href="https://isocpp.org/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/></a> &nbsp;&nbsp;
-        <a href="https://python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a> &nbsp;&nbsp;
-        <a href="https://mathworks.com/products/matlab.html" title="MATLAB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/></a> &nbsp;&nbsp;
-        <a href="https://git-scm.com" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C Programming"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/></a> &nbsp;
+        <a href="https://isocpp.org/" title="C++"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/></a> &nbsp;
+        <a href="https://python.org" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a> &nbsp;
+        <a href="https://mathworks.com/products/matlab.html" title="MATLAB"><img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/></a>
       </p>
-      <p><code>C</code> &nbsp; <code>Embedded C</code> &nbsp; <code>C++</code> &nbsp; <code>Python</code> &nbsp; <code>MATLAB</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Embedded Systems & Microcontrollers</h4>
       <p>
-        <a href="https://espressif.com/en/products/socs/esp32" title="ESP32"><img src="https://cdn.simpleicons.org/espressif/000000" width="45" height="45" alt="ESP32"/></a> &nbsp;&nbsp;
-        <a href="https://st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" title="STM32"><img src="https://cdn.simpleicons.org/stmicroelectronics/03234C" width="45" height="45" alt="STM32"/></a> &nbsp;&nbsp;
-        <a href="https://raspberrypi.com/products/raspberry-pi-pico/" title="Raspberry Pi Pico"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="RP Pico"/></a> &nbsp;&nbsp;
-        <a href="https://arduino.cc" title="Arduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/></a> &nbsp;&nbsp;
-        <a href="https://freertos.org" title="FreeRTOS"><img src="https://cdn.simpleicons.org/freertos/024E79" width="45" height="45" alt="FreeRTOS"/></a>
+        <a href="https://espressif.com/en/products/socs/esp32" title="ESP32"><img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/></a> &nbsp;
+        <a href="https://st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" title="STM32"><img src="https://img.shields.io/badge/STM32-03234C?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a> &nbsp;
+        <a href="https://raspberrypi.com/products/raspberry-pi-pico/" title="Raspberry Pi Pico"><img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="RP Pico"/></a> &nbsp;
+        <a href="https://arduino.cc" title="Arduino"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/></a> &nbsp;
+        <a href="https://freertos.org" title="FreeRTOS"><img src="https://img.shields.io/badge/FreeRTOS-024E79?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS"/></a>
       </p>
-      <p><code>UART</code> &nbsp; <code>SPI</code> &nbsp; <code>I²C</code> &nbsp; <code>CAN Bus</code> &nbsp; <code>FreeRTOS</code></p>
+      <p><code>UART</code> &nbsp; <code>SPI</code> &nbsp; <code>I²C</code> &nbsp; <code>CAN Bus</code></p>
     </td>
   </tr>
   <tr>
@@ -174,22 +178,22 @@
       <br/>
       <h4>🧠 AI & Machine Learning</h4>
       <p>
-        <a href="https://tensorflow.org" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/></a> &nbsp;&nbsp;
-        <a href="https://pytorch.org" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/></a> &nbsp;&nbsp;
-        <a href="https://scikit-learn.org" title="Scikit-Learn"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" height="45" alt="Scikit-Learn"/></a> &nbsp;&nbsp;
-        <a href="https://opencv.org" title="OpenCV"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/></a> &nbsp;&nbsp;
-        <a href="https://numpy.org" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/></a> &nbsp;&nbsp;
-        <a href="https://pandas.pydata.org" title="Pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/></a>
+        <a href="https://tensorflow.org" title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a> &nbsp;
+        <a href="https://pytorch.org" title="PyTorch"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/></a> &nbsp;
+        <a href="https://scikit-learn.org" title="Scikit-Learn"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a> &nbsp;
+        <a href="https://opencv.org" title="OpenCV"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/></a> &nbsp;
+        <a href="https://numpy.org" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/></a> &nbsp;
+        <a href="https://pandas.pydata.org" title="Pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <br/>
       <h4>🔌 Electronics & PCB Design</h4>
       <p>
-        <a href="https://kicad.org" title="KiCad EDA"><img src="https://cdn.simpleicons.org/kicad/314E87" width="45" height="45" alt="KiCad"/></a> &nbsp;&nbsp;
-        <a href="https://labcenter.com" title="Proteus"><img src="https://cdn.simpleicons.org/googlechrome/1A73E8" width="45" height="45" alt="Proteus"/></a> &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/blueprint/00F5D4" width="45" height="45" alt="Oscilloscope" title="Oscilloscope Diagnostics"/> &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/microchip/7F5AF0" width="45" height="45" alt="BMS & Power Electronics" title="BMS & Power Electronics"/>
+        <a href="https://kicad.org" title="KiCad EDA"><img src="https://img.shields.io/badge/KiCad-314E87?style=flat-square&logo=kicad&logoColor=white" alt="KiCad"/></a> &nbsp;
+        <img src="https://img.shields.io/badge/Proteus-1A73E8?style=flat-square&logo=googlechrome&logoColor=white" alt="Proteus"/> &nbsp;
+        <img src="https://img.shields.io/badge/Oscilloscope-00F5D4?style=flat-square&logoColor=black" alt="Oscilloscope"/> &nbsp;
+        <img src="https://img.shields.io/badge/BMS_Systems-FF9900?style=flat-square&logoColor=white" alt="BMS"/>
       </p>
       <p><code>KiCad EDA</code> &nbsp; <code>Analog AFE</code> &nbsp; <code>BMS Systems</code> &nbsp; <code>Proteus</code></p>
     </td>
@@ -199,20 +203,20 @@
       <br/>
       <h4>🎨 Creative Suite</h4>
       <p>
-        <a href="https://adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/></a> &nbsp;&nbsp;
-        <a href="https://adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="45" height="45" alt="Illustrator"/></a> &nbsp;&nbsp;
-        <a href="https://adobe.com/products/premiere.html" title="Adobe Premiere Pro"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45" height="45" alt="Premiere Pro"/></a> &nbsp;&nbsp;
-        <a href="https://adobe.com/products/photoshop-lightroom.html" title="Adobe Lightroom"><img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" width="45" height="45" alt="Lightroom"/></a>
+        <a href="https://adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/></a> &nbsp;
+        <a href="https://adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/></a> &nbsp;
+        <a href="https://adobe.com/products/premiere.html" title="Adobe Premiere Pro"><img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro"/></a> &nbsp;
+        <a href="https://adobe.com/products/photoshop-lightroom.html" title="Adobe Lightroom"><img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white" alt="Lightroom"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <br/>
       <h4>🛠️ Development Tools</h4>
       <p>
-        <a href="https://code.visualstudio.com" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/></a> &nbsp;&nbsp;
-        <a href="https://platformio.org" title="PlatformIO"><img src="https://cdn.simpleicons.org/platformio/F58220" width="45" height="45" alt="PlatformIO"/></a> &nbsp;&nbsp;
-        <a href="https://arduino.cc/en/software" title="Arduino IDE"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino IDE"/></a> &nbsp;&nbsp;
-        <a href="https://github.com" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
+        <a href="https://code.visualstudio.com" title="VS Code"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a> &nbsp;
+        <a href="https://platformio.org" title="PlatformIO"><img src="https://img.shields.io/badge/PlatformIO-F58220?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO"/></a> &nbsp;
+        <a href="https://arduino.cc/en/software" title="Arduino IDE"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE"/></a> &nbsp;
+        <a href="https://github.com" title="GitHub"><img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
       </p>
     </td>
   </tr>
