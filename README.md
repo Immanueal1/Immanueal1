@@ -126,9 +126,6 @@
     </td>
     <td width="50%" valign="top">
       <br/>
-      <p align="center">
-        <img src="./assets/oled_interface.png" width="380px" style="border-radius: 8px; border: 1px solid #1E293B;" alt="Smart IoT Medicine Dispenser Interface"/>
-      </p>
       <h3>💊 4. Smart IoT Automated Medicine Dispenser</h3>
       <p>Automated medication appliance with timed rotating compartments, optical release verification, and Cloud alerts.</p>
       <ul>
