@@ -4,8 +4,7 @@
 
 <div align="center">
 
-  <!-- Local Custom SVG Hero Banner -->
-  <img src="./assets/hero_banner.svg" width="100%" alt="Krishna Kant Garhe - Hero Banner" /> 
+<img src="./assets/Header%20banner.svg" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -265,7 +264,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** p
         <br/><br/>
         <a href="./assets/c_certificate_iit_bombay.png" target="_blank"><img src="https://img.shields.io/badge/IIT_Bombay-C_Programming_Certification-00599C?style=flat-square&logo=c&logoColor=white" alt="IIT Bombay C"/></a>
         <br/><br/>
-        <a href="./assets/python_data_science_certificate.png" target="_blank"><img src="https://img.shields.io/badge/Python-Advanced_Data_Science_Certification-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Cert"/></a>
+        <a href="./assets/Python%20certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/Python-Advanced_Data_Science_Certification-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Cert"/></a>
       </p>
     </td>
   </tr>
