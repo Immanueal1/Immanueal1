@@ -288,6 +288,11 @@
 
 <br/><br/>
 
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<img src="https://raw.githubusercontent.com/Immanueal1/Immanueal1/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Contribution Graph" />
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Immanueal1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
