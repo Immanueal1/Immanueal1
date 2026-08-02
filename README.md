@@ -259,8 +259,8 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Immanueal1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A12&title_color=22D3EE&text_color=F5F5F7&icon_color=EC4899" alt="GitHub stats for Immanueal1" />
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Immanueal1&layout=compact&theme=midnight-purple&hide=html,css&hide_border=true&bg_color=0A0A12&title_color=22D3EE&text_color=F5F5F7" alt="Top programming languages for Immanueal1" />
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Immanueal1&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0A0A12&amp;title_color=22D3EE&amp;text_color=F5F5F7&amp;icon_color=EC4899" alt="GitHub stats for Immanueal1" />
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Immanueal1&amp;layout=compact&amp;theme=midnight-purple&amp;hide=html,css&amp;hide_border=true&amp;bg_color=0A0A12&amp;title_color=22D3EE&amp;text_color=F5F5F7" alt="Top programming languages for Immanueal1" />
 
 <br/><br/>
 
