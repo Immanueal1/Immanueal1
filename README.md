@@ -186,8 +186,8 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** p
         <li><b>Interface:</b> Real-time IoT Dashboard & local OLED spectral feedback</li>
       </ul>
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80" width="95%" style="border-radius: 8px;" alt="Microplastic Analyzer Placeholder"/>
-        <br/><sub><i>[ Project Showcase Image ]</i></sub>
+        <img src="./assets/microplastic_analyzer.png" width="95%" style="border-radius: 8px;" alt="Real Prototype of NIR Microplastic Analyzer"/>
+        <br/><sub><i>[ Real Prototype Hardware ]</i></sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -200,8 +200,8 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** p
         <li><b>User Interface:</b> LCD Display with dynamic frequency & amplitude control</li>
       </ul>
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80" width="95%" style="border-radius: 8px;" alt="Pico Signal Generator Placeholder"/>
-        <br/><sub><i>[ Project Showcase Image ]</i></sub>
+        <img src="./assets/waveform_generator.png" width="95%" style="border-radius: 8px;" alt="Real Prototype of RP Pico Waveform Generator"/>
+        <br/><sub><i>[ Real Prototype Hardware ]</i></sub>
       </p>
     </td>
   </tr>
@@ -216,8 +216,8 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** p
         <li><b>Form Factor:</b> Handheld field diagnostic tool for hardware troubleshooting</li>
       </ul>
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80" width="95%" style="border-radius: 8px;" alt="Digital Oscilloscope Placeholder"/>
-        <br/><sub><i>[ Project Showcase Image ]</i></sub>
+        <img src="./assets/oscilloscope.png" width="95%" style="border-radius: 8px;" alt="Real Prototype of Portable Digital Oscilloscope"/>
+        <br/><sub><i>[ Real Prototype Hardware ]</i></sub>
       </p>
     </td>
     <td width="50%" valign="top">
