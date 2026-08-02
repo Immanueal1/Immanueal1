@@ -1,19 +1,19 @@
-<svg fill="none" viewBox="0 0 1200 1040" width="1200" height="1040" xmlns="http://www.w3.org/2000/svg">
+﻿<svg fill="none" viewBox="0 0 1200 1040" width="1200" height="1040" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="1040" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070A12"/>
-      <stop offset="1" stop-color="#0D1324"/>
+      <stop stop-color="#0A0A12"/>
+      <stop offset="1" stop-color="#111122"/>
     </linearGradient>
     <linearGradient id="stroke" x1="70" y1="40" x2="1130" y2="1000" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#00F5D4"/>
-      <stop offset=".5" stop-color="#0B84FF"/>
+      <stop stop-color="#22D3EE"/>
+      <stop offset=".5" stop-color="#8B5CF6"/>
       <stop offset="1" stop-color="#8B5CF6"/>
     </linearGradient>
     <style>
-      .head{font:800 26px Inter,Segoe UI,Arial,sans-serif;fill:#F8FAFC}
-      .cat{font:800 17px Inter,Segoe UI,Arial,sans-serif;fill:#00F5D4}
-      .name{font:700 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#E2E8F0}
-      .card{fill:#111827;stroke:#28344E;stroke-width:1.2}
+      .head{font:800 26px Inter,Segoe UI,Arial,sans-serif;fill:#F5F5F7}
+      .cat{font:800 17px Inter,Segoe UI,Arial,sans-serif;fill:#22D3EE}
+      .name{font:700 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#F5F5F7}
+      .card{fill:#18162A;stroke:#8B5CF6;stroke-width:1.2}
       .mark{font:900 20px Inter,Segoe UI,Arial,sans-serif;fill:#0B1120}
       .disc{fill:url(#stroke)}
     </style>
@@ -21,7 +21,7 @@
   <rect width="1200" height="1040" rx="20" fill="url(#bg)"/>
   <rect x="1.5" y="1.5" width="1197" height="1037" rx="18.5" stroke="url(#stroke)" stroke-opacity=".7" stroke-width="3"/>
   <text x="60" y="62" class="head">Technical Skill Matrix</text>
-  <text x="60" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" fill="#9FB3C8">Consistent dark-theme SVG cards for firmware, electronics, AI, product design, and development workflows.</text>
+  <text x="60" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" fill="#B5B8C5">Consistent dark-theme SVG cards for firmware, electronics, AI, product design, and development workflows.</text>
 
   <g transform="translate(60 130)">
     <text class="cat">Programming</text>
@@ -103,3 +103,4 @@
     </g>
   </g>
 </svg>
+

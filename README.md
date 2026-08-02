@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="./assets/header-banner.svg" width="100%" alt="Krishna Kant Garhe - Embedded Systems Engineer, PCB Designer, Edge AI Developer" />
+<img src="./assets/header-banner.svg" width="100%" alt="Krishna Kant Garhe - embedded systems, PCB design, edge AI and product engineering dashboard banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vcenter=true&width=760&lines=I+build+hardware+that+thinks.;Firmware+%7C+PCB+Design+%7C+Edge+AI+%7C+IoT;ESP32+%7C+RP2040+%7C+STM32+%7C+Embedded+C%2B%2B;From+analog+circuits+to+neural+networks;Building+intelligent+devices+for+the+real+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vcenter=true&width=760&lines=I+build+hardware+that+thinks.;Firmware+%7C+PCB+Design+%7C+Edge+AI+%7C+IoT;ESP32+%7C+RP2040+%7C+STM32+%7C+Embedded+C%2B%2B;From+analog+circuits+to+neural+networks;Building+intelligent+devices+for+the+real+world)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 > **I build real hardware, write firmware, apply AI, design electronics, and turn prototypes into usable products.**
 
-I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** focused on **intelligent physical systems**. My work connects low-level microcontroller firmware, custom circuit design, and deployable edge AI into practical hardware products.
+I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** building **intelligent physical systems** across firmware, PCB design, edge AI, and clean-energy hardware.
 
 | Engineering Signal | What I Bring |
 | --- | --- |
@@ -44,20 +44,6 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** f
 | 🧠 **AI / Machine Learning** | Lightweight ML pipelines using SVM, Random Forest, CNNs, and embedded sensor data. |
 | 🔌 **PCB & Product Design** | KiCad, Proteus, analog front-ends, sensor interfaces, power regulation, and hardware bring-up. |
 | 🔋 **Clean Energy Experience** | Lithium-ion battery assembly, BMS wiring, EV integration at **Vaishnavas Energy**, and SCADA exposure at **CSPGCL**. |
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="Section divider" />
-
-<!-- ========================================================================= -->
-<!--                          CURRENT FOCUS SECTION                            -->
-<!-- ========================================================================= -->
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="./assets/focus-cards.svg" width="100%" alt="Current focus cards: Edge AI hardware, firmware and RTOS, PCB prototyping" />
-</div>
 
 <br/>
 
@@ -103,7 +89,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** f
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🔬 Portable NIR Microplastic Analyzer</h3>
       <p><b>Portable AI-powered environmental sensing device</b> for near-infrared polymer classification in field conditions.</p>
       <p>
@@ -116,11 +102,11 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** f
         <li><b>Interface:</b> Local OLED feedback with real-time IoT monitoring.</li>
       </ul>
       <p align="center">
-        <img src="./assets/microplastic_analyzer.png" width="88%" alt="Prototype hardware for NIR microplastic analyzer"/>
+        <img src="./assets/microplastic_analyzer.png" width="66%" alt="Prototype hardware for NIR microplastic analyzer"/>
         <br/><sub><i>Real prototype hardware</i></sub>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🌊 Raspberry Pi Pico Waveform Generator</h3>
       <p><b>High-speed arbitrary signal generator</b> using RP2040 PIO, DMA, and a precision R-2R DAC topology.</p>
       <p>
@@ -133,13 +119,11 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** f
         <li><b>Goal:</b> Compact lab-grade waveform generation for prototyping.</li>
       </ul>
       <p align="center">
-        <img src="./assets/waveform_generator.png" width="88%" alt="Prototype hardware for RP2040 waveform generator"/>
+        <img src="./assets/waveform_generator.png" width="66%" alt="Prototype hardware for RP2040 waveform generator"/>
         <br/><sub><i>Real prototype hardware</i></sub>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>📊 Portable Digital Oscilloscope</h3>
       <p><b>Compact acquisition and diagnostics tool</b> for signal analysis, serial decoding, and field troubleshooting.</p>
       <p>
@@ -152,25 +136,8 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** f
         <li><b>Form Factor:</b> Handheld diagnostic hardware for embedded systems.</li>
       </ul>
       <p align="center">
-        <img src="./assets/oscilloscope.png" width="88%" alt="Prototype hardware for portable digital oscilloscope"/>
+        <img src="./assets/oscilloscope.png" width="66%" alt="Prototype hardware for portable digital oscilloscope"/>
         <br/><sub><i>Real prototype hardware</i></sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💊 Smart IoT Medicine Dispenser</h3>
-      <p><b>Automated healthcare appliance</b> for scheduled medication dispensing, caregiver alerts, and dosage logging.</p>
-      <p>
-        <code>Arduino</code> <code>ESP8266</code> <code>Blynk IoT</code> <code>Servo</code> <code>Safety Sensor</code>
-      </p>
-      <ul>
-        <li><b>Controller:</b> Arduino with ESP8266 Wi-Fi connectivity.</li>
-        <li><b>Mechanism:</b> Servo-driven carousel with compartment locking.</li>
-        <li><b>Monitoring:</b> Blynk mobile dashboard for logs and alarms.</li>
-        <li><b>Safety:</b> Optical feedback for pill-release verification.</li>
-      </ul>
-      <p align="center">
-        <img src="./assets/web_dashboard.png" width="88%" alt="IoT medicine dispenser monitoring dashboard"/>
-        <br/><sub><i>Project dashboard and monitoring interface</i></sub>
       </p>
     </td>
   </tr>
@@ -193,7 +160,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** f
       <p><b>NIR-Based Portable Microplastic Analyzer using ESP32 & Edge ML</b></p>
       <p>Published research on portable NIR spectrometry and polymer signature classification for field-ready environmental analysis.</p>
       <p align="center">
-        <a href="./assets/publication_certificate.pdf"><img src="https://img.shields.io/badge/Research_Paper-View_Journal_PDF-00F5D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Research paper PDF"/></a>
+        <a href="./assets/publication_certificate.pdf"><img src="https://img.shields.io/badge/Research_Paper-View_Journal_PDF-22D3EE?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Research paper PDF"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -214,41 +181,14 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** f
 <img src="./assets/divider.svg" width="100%" alt="Section divider" />
 
 <!-- ========================================================================= -->
-<!--                         ENGINEERING TIMELINE                              -->
+<!--                         EXPERIENCE TIMELINE                               -->
 <!-- ========================================================================= -->
 
-## 📈 Engineering Journey
+## 📈 Experience Timeline
 
-```mermaid
-gantt
-    title Engineering & Career Roadmap
-    dateFormat  YYYY
-    section Education
-    B.Tech E&TC (BIT Durg)         :2020, 2024
-    section Experience
-    SCADA Power Intern (CSPGCL)    :2023, 2023
-    Onsite EV Engineer (Vaishnavas):2024, 2025
-    section Innovations
-    Portable NIR Analyzer (ESP32)  :2023, 2024
-    Edge AI & STM32 Open Source    :2024, 2026
-```
-
-<details>
-<summary>🔍 <b>Detailed Engineering Timeline</b></summary>
-<br/>
-
-- 🎓 **2020 - 2024 | Electronics & Telecommunication Engineering (BIT Durg)**  
-  Built a foundation in circuit theory, signal processing, digital communication, and microcontroller programming.
-- ⚡ **2023 | SCADA Power Systems Intern (CSPGCL)**  
-  Analyzed industrial telemetry, high-voltage substation automation, and grid monitoring systems.
-- 🔬 **2023 - 2024 | Flagship Innovation (NIR Microplastic Spectrometer)**  
-  Engineered a portable ESP32 analyzer with ML-based microplastic classification at 95%+ accuracy.
-- 🔋 **2024 - 2025 | Onsite Engineer Trainee (Vaishnavas Energy Pvt. Ltd.)**  
-  Worked on lithium-ion battery packs, BMS wiring harnesses, thermal safety, and EV power integration.
-- 🚀 **2025 - Present | Embedded AI & Open Source**  
-  Expanding into STM32 bare-metal development, FreeRTOS, Embedded Linux, and TinyML hardware.
-
-</details>
+<div align="center">
+  <img src="./assets/experience-timeline.svg" width="100%" alt="Professional experience timeline with teaching, battery systems, aerospace, SCADA and solar documentation roles" />
+</div>
 
 <br/>
 
@@ -315,7 +255,16 @@ gantt
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/Immanueal1?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-<img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Profile%20Views&color=00f5d4&style=for-the-badge" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views counter" />
+
+<br/><br/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Immanueal1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A12&title_color=22D3EE&text_color=F5F5F7&icon_color=EC4899" alt="GitHub stats for Immanueal1" />
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Immanueal1&layout=compact&theme=midnight-purple&hide=html,css&hide_border=true&bg_color=0A0A12&title_color=22D3EE&text_color=F5F5F7" alt="Top programming languages for Immanueal1" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Immanueal1&theme=midnight-purple&hide_border=true&background=0A0A12&ring=EC4899&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak stats for Immanueal1" />
 
 <br/><br/>
 
@@ -327,6 +276,14 @@ gantt
 <br/>
 <sub><i>Automatically updated by GitHub Actions.</i></sub>
 
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="./assets/github-trophies.svg" width="100%" alt="GitHub trophy-style achievement panel" />
 </div>
 
 <br/>
@@ -365,10 +322,10 @@ I am excited to collaborate on **innovative hardware, firmware, clean energy, an
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:0B84FF,100:7B2CBF&height=120&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:EC4899&height=120&section=footer" width="100%" alt="Footer wave" />
 
 <h3>⚡ Thanks for visiting ⚡</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Profile%20Views&color=00f5d4&style=flat-square" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views counter" />
 
 </div>

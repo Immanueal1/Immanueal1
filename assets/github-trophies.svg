@@ -1,0 +1,30 @@
+<svg fill="none" viewBox="0 0 1200 230" width="1200" height="230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0A12"/>
+      <stop offset="1" stop-color="#111122"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="30" x2="1130" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset=".52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <style>
+      .card{fill:#18162A;stroke:#8B5CF6;stroke-opacity:.32}
+      .title{font:800 17px Inter,Segoe UI,Arial,sans-serif;fill:#F5F5F7}
+      .label{font:700 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#22D3EE;letter-spacing:1px}
+      .cup{stroke:url(#accent);stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="227" rx="16.5" stroke="url(#accent)" stroke-opacity=".65" stroke-width="3"/>
+  <g transform="translate(50 48)">
+    <g><rect class="card" width="165" height="128" rx="14"/><path class="cup" d="M62 38h42v24c0 22-10 34-21 34S62 84 62 62V38zM62 48H42c0 20 9 30 25 31M104 48h20c0 20-9 30-25 31M75 96v16h16V96"/><text x="82" y="118" text-anchor="middle" class="title">Product Builder</text></g>
+    <g transform="translate(185)"><rect class="card" width="165" height="128" rx="14"/><path class="cup" d="M62 38h42v24c0 22-10 34-21 34S62 84 62 62V38zM62 48H42c0 20 9 30 25 31M104 48h20c0 20-9 30-25 31M75 96v16h16V96"/><text x="82" y="118" text-anchor="middle" class="title">Firmware</text></g>
+    <g transform="translate(370)"><rect class="card" width="165" height="128" rx="14"/><path class="cup" d="M62 38h42v24c0 22-10 34-21 34S62 84 62 62V38zM62 48H42c0 20 9 30 25 31M104 48h20c0 20-9 30-25 31M75 96v16h16V96"/><text x="82" y="118" text-anchor="middle" class="title">Edge AI</text></g>
+    <g transform="translate(555)"><rect class="card" width="165" height="128" rx="14"/><path class="cup" d="M62 38h42v24c0 22-10 34-21 34S62 84 62 62V38zM62 48H42c0 20 9 30 25 31M104 48h20c0 20-9 30-25 31M75 96v16h16V96"/><text x="82" y="118" text-anchor="middle" class="title">PCB Design</text></g>
+    <g transform="translate(740)"><rect class="card" width="165" height="128" rx="14"/><path class="cup" d="M62 38h42v24c0 22-10 34-21 34S62 84 62 62V38zM62 48H42c0 20 9 30 25 31M104 48h20c0 20-9 30-25 31M75 96v16h16V96"/><text x="82" y="118" text-anchor="middle" class="title">Open Source</text></g>
+    <g transform="translate(925)"><rect class="card" width="165" height="128" rx="14"/><path class="cup" d="M62 38h42v24c0 22-10 34-21 34S62 84 62 62V38zM62 48H42c0 20 9 30 25 31M104 48h20c0 20-9 30-25 31M75 96v16h16V96"/><text x="82" y="118" text-anchor="middle" class="title">Clean Energy</text></g>
+  </g>
+  <text x="600" y="205" text-anchor="middle" class="label">LOCAL TROPHY PANEL • STABLE GITHUB MARKDOWN SVG</text>
+</svg>

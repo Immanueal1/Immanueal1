@@ -1,0 +1,87 @@
+<svg fill="none" viewBox="0 0 1200 980" width="1200" height="980" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0A12"/>
+      <stop offset=".55" stop-color="#111122"/>
+      <stop offset="1" stop-color="#0A0A12"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="40" x2="1120" y2="940" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset=".5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .card{fill:#18162A;stroke:#8B5CF6;stroke-opacity:.32;stroke-width:1.4}
+      .role{font:800 22px Inter,Segoe UI,Arial,sans-serif;fill:#F5F5F7}
+      .meta{font:700 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#22D3EE;letter-spacing:.8px}
+      .bullet{font:600 16px Inter,Segoe UI,Arial,sans-serif;fill:#B5B8C5}
+      .icon{stroke:#22D3EE;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+      .dot{fill:#EC4899;filter:url(#glow)}
+      .line{stroke:url(#accent);stroke-width:4;stroke-linecap:round;stroke-dasharray:12 14;animation:dash 10s linear infinite}
+      @keyframes dash{to{stroke-dashoffset:-220}}
+    </style>
+  </defs>
+  <rect width="1200" height="980" rx="20" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="977" rx="18.5" stroke="url(#accent)" stroke-opacity=".6" stroke-width="3"/>
+  <text x="60" y="62" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800" fill="#F5F5F7">Professional Timeline</text>
+  <text x="60" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" fill="#B5B8C5">Teaching, embedded systems, aerospace, power systems, and documentation experience in one scan-friendly view.</text>
+  <path class="line" d="M600 132V900"/>
+
+  <g transform="translate(70 132)">
+    <rect class="card" width="470" height="118" rx="16"/>
+    <circle class="dot" cx="530" cy="59" r="9"/>
+    <path class="icon" d="M36 42h46v42H36zM36 42l23-15 23 15M59 84v17"/>
+    <text x="108" y="36" class="meta">Jul 2025 - Present • Bhilai</text>
+    <text x="108" y="65" class="role">Class 11/12 PCM, JEE &amp; NEET Teacher</text>
+    <text x="108" y="93" class="bullet">Mentee to Mentor Academy • Study material • Individual mentoring</text>
+  </g>
+
+  <g transform="translate(660 260)">
+    <rect class="card" width="470" height="118" rx="16"/>
+    <circle class="dot" cx="-60" cy="59" r="9"/>
+    <path class="icon" d="M36 38h52M36 64h52M36 90h34M96 42v52"/>
+    <text x="108" y="36" class="meta">2022 - Present</text>
+    <text x="108" y="65" class="role">Teacher</text>
+    <text x="108" y="93" class="bullet">BrainStormers' Academy • 9/10 to JEE/NEET • Academic planning</text>
+  </g>
+
+  <g transform="translate(70 388)">
+    <rect class="card" width="470" height="118" rx="16"/>
+    <circle class="dot" cx="530" cy="59" r="9"/>
+    <path class="icon" d="M38 80h58M48 48h38l10 32H38zM56 48V34h22v14"/>
+    <text x="108" y="36" class="meta">Mar 2026 - May 2026</text>
+    <text x="108" y="65" class="role">Onsite Engineer (Trainee)</text>
+    <text x="108" y="93" class="bullet">Vaishnavas Energy • Battery packs • BMS • EV &amp; BESS systems</text>
+  </g>
+
+  <g transform="translate(660 516)">
+    <rect class="card" width="470" height="118" rx="16"/>
+    <circle class="dot" cx="-60" cy="59" r="9"/>
+    <path class="icon" d="M58 30l34 64-34-16-34 16 34-64zM44 82l14-22 14 22"/>
+    <text x="108" y="36" class="meta">Feb 2026 - Mar 2026</text>
+    <text x="108" y="65" class="role">Aerospace &amp; Drone Systems Trainee</text>
+    <text x="108" y="93" class="bullet">India Space Lab • Drone systems • CanSat/CubeSat • GIS</text>
+  </g>
+
+  <g transform="translate(70 644)">
+    <rect class="card" width="470" height="118" rx="16"/>
+    <circle class="dot" cx="530" cy="59" r="9"/>
+    <path class="icon" d="M36 84h58M46 84V42h38v42M55 54h20M55 68h20"/>
+    <text x="108" y="36" class="meta">Jun 2025 - Jul 2025</text>
+    <text x="108" y="65" class="role">Summer Engineering Intern</text>
+    <text x="108" y="93" class="bullet">CSPGCL • SCADA systems • Automation • Power generation</text>
+  </g>
+
+  <g transform="translate(660 772)">
+    <rect class="card" width="470" height="118" rx="16"/>
+    <circle class="dot" cx="-60" cy="59" r="9"/>
+    <path class="icon" d="M38 34h48l14 14v48H38zM86 34v14h14M50 64h38M50 80h30"/>
+    <text x="108" y="36" class="meta">Mar 2022 - Apr 2022</text>
+    <text x="108" y="65" class="role">Documentation &amp; Coordination Intern</text>
+    <text x="108" y="93" class="bullet">Solar Subsidy Processing • CREDA • Docs • Govt coordination</text>
+  </g>
+</svg>
