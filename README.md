@@ -67,13 +67,13 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 
 | Category | Technologies |
 | --- | --- |
-| **Programming** | C, Embedded C, C++, Python, MATLAB, Git, GitHub |
-| **Embedded** | ESP32, Arduino, Raspberry Pi Pico, STM32, FreeRTOS |
-| **Protocols** | UART, SPI, I²C, CAN Bus |
-| **AI** | Scikit-Learn, TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Matplotlib |
-| **Electronics** | KiCad, Proteus, Oscilloscope, Logic Analyzer, Power Electronics, BMS Systems, Circuit Design |
-| **Creative** | Adobe Photoshop, Illustrator, Premiere Pro, Lightroom |
-| **Development** | VS Code, Arduino IDE, PlatformIO, GitHub Actions |
+| **Programming** | C, Embedded C, C++, Python, MATLAB, ARM Assembly, HTML5, CSS3, Git, GitHub |
+| **Embedded & MCUs** | ESP32, STM32 (ARM Cortex-M), RP2040 (Pico), Arduino, FreeRTOS, Embedded Linux |
+| **Protocols & Busses** | UART, SPI, I²C, CAN Bus, Modbus, MQTT, BLE (Bluetooth), Wi-Fi |
+| **AI, Edge ML & Robotics** | TinyML, Scikit-Learn, TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Matplotlib, ROS/ROS2 |
+| **Electronics & Hardware** | KiCad, Proteus, Oscilloscope, Logic Analyzer, Power Electronics, BMS Systems, Circuit Design, AFE |
+| **Creative Software** | Adobe Photoshop, Illustrator, Premiere Pro, Lightroom |
+| **Development & Tools** | VS Code, PlatformIO, Arduino IDE, STM32CubeIDE, GitHub Actions |
 
 </details>
 
