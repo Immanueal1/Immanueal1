@@ -1,21 +1,135 @@
-# 💫 About Me:
-I build hardware that thinks — devices that sense, process, and act in the real world.<br><br>I'm an Electronics & Telecommunication Engineering graduate from BIT Durg, with hands-on experience across embedded systems, IoT, PCB design, and AI/ML-enabled hardware. My flagship project — a portable NIR-based microplastic analyzer using ESP32 and machine learning — classifies 5 polymer types with 95%+ accuracy, turning a lab-only process into a field-deployable device.<br><br>I work across the full stack of a hardware product:<br>⚡ Embedded firmware — ESP32, Arduino, Raspberry Pi Pico, Embedded C/C++<br>🔧 PCB & circuit design — MATLAB, KiCad, Proteus, analog front-end design<br>📡 IoT systems — sensor integration, UART/SPI/I²C, wireless data transmission<br> 🖥️ C, C++, Python & Machine learning <br>🤖 ML on embedded data — SVM, Random Forest, CNN for real-time classification<br><br>Recently worked as an Onsite Engineer (Trainee) at Vaishnavas Energy Pvt. Ltd., handling battery pack assembly, BMS wiring, and systems integration for EV and energy storage applications. I've also interned with CSPGCL on SCADA-based power monitoring systems.<br><br>Open to Embedded Systems, Firmware, IoT, or Clean Energy Technology roles — and always happy to connect with fellow engineers.<br>Open to working PAN INDIA<br><br>📧 krishnakantgarhe@gmail.com
+<div align="center">
 
+# ⚡ Hi, I'm Krishna Kant Garhe (Immanueal) 
+### *Electronics & Telecommunication Engineer | Embedded Systems | IoT & Edge AI*
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Immanueal.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krishna Kant (Immanueal) Garhe) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Immanueal .G) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Immanueal21) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Krishna Kant Garhe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnakantgarhe@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Immanueal1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Immanueal1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Immanueal1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Immanueal1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vcenter=true&width=650&lines=I+build+hardware+that+thinks.;ESP32+%7C+Embedded+C%2B%2B+%7C+Edge+AI;EV+Battery+Management+%26+BMS+Integration;IoT+%26+NIR+Spectrometry+Systems)](https://git.io/typing-svg)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Immanueal1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnakantgarhe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnakantgarhe@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Immanueal.g)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Immanueal21)
+
+</div>
+
+<br/>
+
+## 💫 About Me
+
+I design and build **hardware that thinks** — intelligent embedded devices that sense, process, and act in real-world environments.
+
+- 🎓 **Background:** Electronics & Telecommunication Engineering graduate from **BIT Durg**.
+- 🔬 **Flagship Innovation:** Developed a **portable NIR-based microplastic analyzer** powered by ESP32 and Edge ML (classifying 5 polymer types with **95%+ accuracy**).
+- 🔋 **Industry Experience:** Worked as an Onsite Engineer (Trainee) at **Vaishnavas Energy Pvt. Ltd.** handling lithium battery pack assembly, BMS wiring, and EV systems integration.
+- ⚡ **Industrial Automation:** Interned at **CSPGCL** focusing on SCADA-based power monitoring systems.
+- 📍 **Status:** Open to **Embedded Systems, Firmware, IoT, & Clean Energy** engineering roles across PAN India.
+
+---
+
+## 🚀 Key Highlights & Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Portable NIR Microplastic Analyzer</h3>
+      <p>Field-deployable spectrometer using ESP32 & machine learning to analyze microplastic contamination in real time.</p>
+      <ul>
+        <li><b>Tech:</b> ESP32, Machine Learning (SVM/Random Forest), Embedded C++, NIR Sensors</li>
+        <li><b>Impact:</b> Achieved 95%+ polymer classification accuracy outside laboratory environments.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔋 EV Battery Pack & BMS Integration</h3>
+      <p>Onsite industrial battery systems assembly, wiring harness, and battery management system (BMS) testing.</p>
+      <ul>
+        <li><b>Tech:</b> BMS, Li-ion Tech, System Integration, Wiring & Safety Protocols</li>
+        <li><b>Impact:</b> Deployed reliable energy storage solutions for electric mobility.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ SCADA Power Monitoring System</h3>
+      <p>Industrial SCADA telemetry and power distribution monitoring system at CSPGCL.</p>
+      <ul>
+        <li><b>Tech:</b> SCADA, Industrial IoT, Telemetry, Power Grids</li>
+        <li><b>Impact:</b> Tracked real-time grid parameters and power distribution metrics.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Edge AI & Sensor Processing</h3>
+      <p>Deploying lightweight ML models directly onto microcontroller units (MCU) for real-time edge processing.</p>
+      <ul>
+        <li><b>Tech:</b> Python, PyTorch, OpenCV, CNN, UART/SPI/I²C</li>
+        <li><b>Impact:</b> Reduced cloud dependency and latency in sensor data classification.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Skill Matrix
+
+### ⚡ Embedded Systems & Firmware
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-024E79?style=for-the-badge&logo=freertos&logoColor=white)
+
+### 🔧 PCB & Circuit Design
+![KiCad](https://img.shields.io/badge/KiCad-314E87?style=for-the-badge&logo=kicad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![Analog Circuitry](https://img.shields.io/badge/Analog%20AFE-00599C?style=for-the-badge)
+
+### 🧠 Edge AI, Machine Learning & Software
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🔋 IoT & Energy Technologies
+![BMS](https://img.shields.io/badge/BMS%20Systems-FF6F00?style=for-the-badge)
+![SCADA](https://img.shields.io/badge/SCADA%20Telemetry-00599C?style=for-the-badge)
+![EV Tech](https://img.shields.io/badge/EV%20Battery%20Tech-4CAF50?style=for-the-badge)
+![Bus Protocols](https://img.shields.io/badge/Protocols-UART%20%7C%20SPI%20%7C%20I2C-20B2AA?style=for-the-badge)
+
+### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Immanueal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immanueal1&layout=compact&theme=tokyonight&hide=html,css"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Immanueal1&theme=tokyonight&hide_border=false" />
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Immanueal1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Profile%20Views&color=00f5d4&style=flat-square" alt="Profile Views" />
+</div>
+
