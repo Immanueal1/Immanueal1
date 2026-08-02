@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1200 310" width="1200" height="310" xmlns="http://www.w3.org/2000/svg">
+metrics_svg = '''<svg fill="none" viewBox="0 0 1200 310" width="1200" height="310" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
       <stop stop-color="#090A12"/>
@@ -85,3 +85,9 @@
   <!-- Bottom Animated Circuit Pulse Trace -->
   <path class="bottom-trace" d="M 52 278 H 1148"/>
 </svg>
+'''
+
+with open('assets/github-metrics.svg', 'w', encoding='utf-8') as f:
+    f.write(metrics_svg)
+
+print("github-metrics.svg updated successfully")

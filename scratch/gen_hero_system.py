@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1100 250" width="1100" height="250" xmlns="http://www.w3.org/2000/svg">
+hero_system_svg = '''<svg fill="none" viewBox="0 0 1100 250" width="1100" height="250" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Dark Neon Dashboard Gradients -->
     <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="250" gradientUnits="userSpaceOnUse">
@@ -161,3 +161,9 @@
     <rect x="55" y="120" width="45" height="6" rx="3" fill="url(#bus-glow)"/>
   </g>
 </svg>
+'''
+
+with open('assets/hero-system.svg', 'w', encoding='utf-8') as f:
+    f.write(hero_system_svg)
+
+print("hero-system.svg updated successfully")

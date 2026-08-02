@@ -1,4 +1,6 @@
-<svg fill="none" viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+import os
+
+header_banner_svg = '''<svg fill="none" viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Dark Neon Dashboard Gradients -->
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
@@ -161,3 +163,9 @@
     </g>
   </g>
 </svg>
+'''
+
+with open('assets/header-banner.svg', 'w', encoding='utf-8') as f:
+    f.write(header_banner_svg)
+
+print("header-banner.svg updated successfully")

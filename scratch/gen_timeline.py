@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1200 980" width="1200" height="980" xmlns="http://www.w3.org/2000/svg">
+timeline_svg = '''<svg fill="none" viewBox="0 0 1200 980" width="1200" height="980" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="980" gradientUnits="userSpaceOnUse">
       <stop stop-color="#090A12"/>
@@ -148,3 +148,9 @@
     <text x="104" y="96" class="bullet">Solar Subsidy Processing • CREDA • Docs • Coordination</text>
   </g>
 </svg>
+'''
+
+with open('assets/experience-timeline.svg', 'w', encoding='utf-8') as f:
+    f.write(timeline_svg)
+
+print("experience-timeline.svg updated successfully")

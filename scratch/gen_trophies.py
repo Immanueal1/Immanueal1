@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1200 230" width="1200" height="230" xmlns="http://www.w3.org/2000/svg">
+trophies_svg = '''<svg fill="none" viewBox="0 0 1200 230" width="1200" height="230" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse">
       <stop stop-color="#090A12"/>
@@ -135,3 +135,9 @@
   <!-- Bottom Monospace Label -->
   <text x="600" y="202" text-anchor="middle" class="label">LOCAL TROPHY PANEL • STABLE GITHUB MARKDOWN SVG</text>
 </svg>
+'''
+
+with open('assets/github-trophies.svg', 'w', encoding='utf-8') as f:
+    f.write(trophies_svg)
+
+print("github-trophies.svg updated successfully")

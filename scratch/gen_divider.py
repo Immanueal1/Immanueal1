@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1200 8" width="100%" height="8" xmlns="http://www.w3.org/2000/svg">
+divider_svg = '''<svg fill="none" viewBox="0 0 1200 8" width="100%" height="8" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
@@ -25,3 +25,9 @@
   <!-- Central Diamond Accent Node -->
   <polygon points="600,1 604,4 600,7 596,4" fill="#22D3EE" filter="url(#div-glow)"/>
 </svg>
+'''
+
+with open('assets/divider.svg', 'w', encoding='utf-8') as f:
+    f.write(divider_svg)
+
+print("divider.svg updated successfully")

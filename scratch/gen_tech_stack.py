@@ -1,4 +1,6 @@
-<svg fill="none" viewBox="0 0 1200 1040" width="1200" height="1040" xmlns="http://www.w3.org/2000/svg">
+import os
+
+tech_stack_svg = '''<svg fill="none" viewBox="0 0 1200 1040" width="1200" height="1040" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradients -->
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="1040" gradientUnits="userSpaceOnUse">
@@ -583,3 +585,9 @@
     </g>
   </g>
 </svg>
+'''
+
+with open('assets/tech-stack.svg', 'w', encoding='utf-8') as f:
+    f.write(tech_stack_svg)
+
+print("assets/tech-stack.svg written directly!")
