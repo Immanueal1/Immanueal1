@@ -1,4 +1,6 @@
 {
+  "type": "night-view",
+  "fileName": "profile-customize.svg",
   "backgroundColor": "#090A12",
   "foregroundColor": "#171A30",
   "strongColor": "#22D3EE",
