@@ -24,9 +24,7 @@
 
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andrei-r-stefan/andrei-r-stefan/main/assets/line-dark.png" width="100%" />
+<hr/>
 
 <!-- ========================================================================= -->
 <!--                             ABOUT ME SECTION                              -->
@@ -36,25 +34,25 @@
 
 > **Electronics & Telecommunication Engineer** (BIT Durg) engineering intelligent hardware products — from multi-layer PCB schematics and deterministic C/C++ firmware to edge machine learning algorithms.
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-Hardware%20%26%20Firmware-00F5D4?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Hardware%20%26%20Firmware-00F5D4?style=flat-square&logoColor=black" alt="Hardware"/>
       <br/><br/>
       <b>MCU Architecture</b>
       <p>Embedded C/C++, ESP32, RP2040, STM32, FreeRTOS, UART, SPI, I2C, CAN Bus.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-Edge%20AI%20%26%20Sensors-0A66C2?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Edge%20AI%20%26%20Sensors-0A66C2?style=flat-square&logoColor=white" alt="Edge AI"/>
       <br/><br/>
       <b>Embedded Intelligence</b>
       <p>Deploying lightweight ML models (SVM, Random Forest, CNN) directly onto MCUs.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-Power%20%26%20BMS-FF9900?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Power%20%26%20BMS-FF9900?style=flat-square&logoColor=white" alt="Power"/>
       <br/><br/>
       <b>Industrial Experience</b>
       <p>Lithium-ion battery pack assembly & BMS integration at Vaishnavas Energy; SCADA at CSPGCL.</p>
@@ -62,9 +60,7 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andrei-r-stefan/andrei-r-stefan/main/assets/line-dark.png" width="100%" />
+<hr/>
 
 <!-- ========================================================================= -->
 <!--                           FEATURED PROJECTS                               -->
@@ -101,7 +97,7 @@
       </ul>
       <p align="center">
         <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Schematic-KiCad_Files-314E87?style=flat-square&logo=kicad&logoColor=white" alt="Schematic"/></a>
+        <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/Schematic-KiCad_Files-314E87?style=flat-square&logo=kicad&logoColor=white" alt="Schematic"/></a>
       </p>
     </td>
   </tr>
@@ -119,13 +115,13 @@
       </ul>
       <p align="center">
         <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Docs-User_Manual-00F5D4?style=flat-square&logo=google-chrome&logoColor=black" alt="Docs"/></a>
+        <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/Docs-User_Manual-00F5D4?style=flat-square&logo=google-chrome&logoColor=black" alt="Docs"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <br/>
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80" width="380px" style="border-radius: 8px; border: 1px solid #1E293B;" alt="IoT Medicine Dispenser"/>
+        <img src="./assets/microplastic_analyzer.png" width="380px" style="border-radius: 8px; border: 1px solid #1E293B;" alt="Smart IoT Medicine Dispenser"/>
       </p>
       <h3>💊 4. Smart IoT Automated Medicine Dispenser</h3>
       <p>Automated medication appliance with timed rotating compartments, optical release verification, and Cloud alerts.</p>
@@ -140,9 +136,7 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andrei-r-stefan/andrei-r-stefan/main/assets/line-dark.png" width="100%" />
+<hr/>
 
 <!-- ========================================================================= -->
 <!--                       ENGINEERING TOOLBOX                                 -->
@@ -224,9 +218,7 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andrei-r-stefan/andrei-r-stefan/main/assets/line-dark.png" width="100%" />
+<hr/>
 
 <!-- ========================================================================= -->
 <!--                       EXPERIENCE TIMELINE                                 -->
@@ -242,9 +234,7 @@
 | ☀️ **Renewable Energy Intern** | Clean Energy Infrastructure | Coordinated government solar energy deployment documentation and compliance. |
 | 📚 **STEM Educator** | Competitive Physics & Math | Mentored 100+ students for competitive JEE/NEET entrance examinations. |
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andrei-r-stefan/andrei-r-stefan/main/assets/line-dark.png" width="100%" />
+<hr/>
 
 <!-- ========================================================================= -->
 <!--                    RESEARCH & CERTIFICATIONS                             -->
@@ -273,9 +263,7 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andrei-r-stefan/andrei-r-stefan/main/assets/line-dark.png" width="100%" />
+<hr/>
 
 <!-- ========================================================================= -->
 <!--                      GITHUB STATS & ANALYTICS                             -->
@@ -300,9 +288,7 @@
 
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andrei-r-stefan/andrei-r-stefan/main/assets/line-dark.png" width="100%" />
+<hr/>
 
 <!-- ========================================================================= -->
 <!--                         CONTACT & FOOTER                                  -->
