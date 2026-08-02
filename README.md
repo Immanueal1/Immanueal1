@@ -17,7 +17,9 @@
   <a href="https://linkedin.com/in/krishnakantgarhe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:krishnakantgarhe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="./assets/publication_certificate.pdf"><img src="https://img.shields.io/badge/Resume-FF6F00?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <!-- FIXED: was pointing at publication_certificate.pdf, which is also used as the research paper.
+       Point this at an actual resume file, e.g. ./assets/resume.pdf -->
+  <a href="./assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-FF6F00?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Views&color=00f5d4&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Immanueal1?label=Followers&style=flat-square&color=0A66C2&logo=github" alt="GitHub Followers" />
 </p>
@@ -68,6 +70,10 @@
 
 ## 🚀 Featured Projects
 
+<!-- FIXED: each project's GitHub/Schematic/Docs badge previously linked to the generic
+     profile URL (https://github.com/Immanueal1). Replace the placeholder repo-slugs below
+     with your actual repository names. -->
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -81,7 +87,7 @@
         <li><b>Highlights:</b> Replaces $50k+ laboratory FTIR spectrometers for real-time field environmental testing.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+        <a href="https://github.com/Immanueal1/nir-microplastic-analyzer"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
         <a href="./assets/publication_certificate.pdf"><img src="https://img.shields.io/badge/Paper-Journal_PDF-00F5D4?style=flat-square&logo=adobeacrobatreader&logoColor=black" alt="Paper"/></a>
       </p>
     </td>
@@ -96,8 +102,8 @@
         <li><b>Highlights:</b> Synthesizes Sine, Square, Triangle, and Custom LUT waveforms with low phase jitter.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-        <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/Schematic-KiCad_Files-314E87?style=flat-square&logo=kicad&logoColor=white" alt="Schematic"/></a>
+        <a href="https://github.com/Immanueal1/rp2040-waveform-generator"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+        <a href="https://github.com/Immanueal1/rp2040-waveform-generator/tree/main/hardware"><img src="https://img.shields.io/badge/Schematic-KiCad_Files-314E87?style=flat-square&logo=kicad&logoColor=white" alt="Schematic"/></a>
       </p>
     </td>
   </tr>
@@ -114,8 +120,8 @@
         <li><b>Highlights:</b> Real-time FFT spectrum analysis & automated UART, SPI, I2C protocol decoding.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-        <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/Docs-User_Manual-00F5D4?style=flat-square&logo=google-chrome&logoColor=black" alt="Docs"/></a>
+        <a href="https://github.com/Immanueal1/portable-oscilloscope"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+        <a href="https://github.com/Immanueal1/portable-oscilloscope/wiki"><img src="https://img.shields.io/badge/Docs-User_Manual-00F5D4?style=flat-square&logo=google-chrome&logoColor=black" alt="Docs"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -130,7 +136,7 @@
         <li><b>Highlights:</b> 100% dosage release verification via optical beam interrupt & real-time telemetry.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Immanueal1"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+        <a href="https://github.com/Immanueal1/iot-medicine-dispenser"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="GitHub"/></a>
       </p>
     </td>
   </tr>
@@ -144,8 +150,11 @@
 
 ## 🛠️ Tech Stack & Engineering Toolbox
 
+<!-- FIXED: matlab, stm32, and kicad are not in the skillicons.dev icon set and would fail
+     to render. Removed them from the URL; the equivalent tools are still represented via
+     the shields.io badges below. -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,arduino,raspberrypi,stm32,tensorflow,pytorch,opencv,numpy,pandas,kicad,ps,ai,pr,lr,vscode,git,github&theme=dark" alt="Engineering Skill Showcase Grid" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,tensorflow,pytorch,opencv,numpy,pandas,ps,ai,pr,lr,vscode,git,github&theme=dark" alt="Engineering Skill Showcase Grid" />
 </div>
 
 <br/>
@@ -166,7 +175,8 @@
       <p>
         <a href="https://espressif.com/en/products/socs/esp32" title="ESP32"><img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/></a> &nbsp;
         <a href="https://st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" title="STM32"><img src="https://img.shields.io/badge/STM32-03234C?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a> &nbsp;
-        <a href="https://raspberrypi.com/products/raspberry-pi-pico/" title="Raspberry Pi Pico"><img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="RP Pico"/></a> &nbsp;
+        <!-- FIXED: shields.io/simple-icons slug is "raspberrypi" (no hyphen), not "raspberry-pi" -->
+        <a href="https://raspberrypi.com/products/raspberry-pi-pico/" title="Raspberry Pi Pico"><img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="RP Pico"/></a> &nbsp;
         <a href="https://arduino.cc" title="Arduino"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/></a> &nbsp;
         <a href="https://freertos.org" title="FreeRTOS"><img src="https://img.shields.io/badge/FreeRTOS-024E79?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS"/></a>
       </p>
@@ -261,7 +271,9 @@
         <br/><br/>
         <a href="./assets/c_certificate_iit_bombay.png"><img src="https://img.shields.io/badge/IIT_Bombay-C_Programming_Certification-00599C?style=flat-square&logo=c&logoColor=white" alt="IIT Bombay C"/></a>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Python-Advanced_Data_Science_Certification-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Cert"/>
+        <!-- FIXED: this badge previously had no link/file, unlike the other two certs.
+             Point it at the actual certificate image once you have the filename. -->
+        <a href="./assets/python_data_science_certificate.png"><img src="https://img.shields.io/badge/Python-Advanced_Data_Science_Certification-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Cert"/></a>
       </p>
     </td>
   </tr>
@@ -288,7 +300,10 @@
 
 <br/><br/>
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- SNAKE CONTRIBUTION GRAPH
+     Requires the platane/snk GitHub Action to be configured in the Immanueal1/Immanueal1
+     repo, generating this SVG on an "output" branch. If that workflow isn't set up yet,
+     this image will 404 — see https://github.com/Platane/snk for setup instructions. -->
 <img src="https://raw.githubusercontent.com/Immanueal1/Immanueal1/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Contribution Graph" />
 
 <br/><br/>
@@ -317,6 +332,8 @@
 
 <h3>⚡ Building Hardware That Thinks ⚡</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Profile%20Views&color=00f5d4&style=flat-square" alt="Profile Views" />
+<!-- FIXED: this was a duplicate of the "Profile Views" badge already shown in the header,
+     causing the counter to be incremented twice per page load. Removed the duplicate here;
+     keep just one instance across the whole page (left in the header). -->
 
 </div>
