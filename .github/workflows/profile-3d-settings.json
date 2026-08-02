@@ -1,8 +1,8 @@
 {
-  "type": "night-view",
+  "type": "night-green",
   "fileName": "profile-customize.svg",
   "backgroundColor": "#090A12",
-  "foregroundColor": "#171A30",
+  "foregroundColor": "#121426",
   "strongColor": "#22D3EE",
   "weakColor": "#A1A8C5",
   "radarColor": "#8B5CF6",
@@ -11,16 +11,16 @@
       "color": "#171A30"
     },
     {
-      "color": "#6D28D9"
+      "color": "#5B21B6"
     },
     {
       "color": "#8B5CF6"
     },
     {
-      "color": "#22D3EE"
+      "color": "#A855F7"
     },
     {
-      "color": "#EC4899"
+      "color": "#22D3EE"
     }
   ]
 }
