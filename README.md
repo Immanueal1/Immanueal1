@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=220&section=header&text=Krishna%20Kant%20Garhe&fontSize=45&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Embedded%20Systems%20Engineer%20%7C%20PCB%20Designer%20%7C%20Edge%20AI%20Developer&descAlign=50&descAlignY=63" width="100%" alt="Header Banner" />
+  <!-- Local Custom SVG Hero Banner -->
+  <img src="./assets/hero_banner.svg" width="100%" alt="Krishna Kant Garhe - Hero Banner" /> 
 
 <br/>
 
