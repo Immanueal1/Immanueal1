@@ -1,0 +1,46 @@
+<svg fill="none" viewBox="0 0 1200 250" width="1200" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="120" y1="20" x2="1080" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5D4"/>
+      <stop offset=".5" stop-color="#0B84FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <style>
+      .eyebrow{font:700 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.5px;fill:#00F5D4}
+      .title{font:800 24px Inter,Segoe UI,Arial,sans-serif;fill:#F8FAFC}
+      .body{font:500 16px Inter,Segoe UI,Arial,sans-serif;fill:#B9C7DA}
+      .icon{stroke:url(#g1);stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect width="1200" height="250" rx="18" fill="#070A12"/>
+  <g transform="translate(30 28)">
+    <rect width="360" height="194" rx="14" fill="url(#card)" stroke="#25304A"/>
+    <path class="icon" d="M45 70h55m-28-28v55m70-48c35 0 58 24 58 56s-23 56-58 56h-44V49z"/>
+    <text x="35" y="128" class="eyebrow">EDGE AI HARDWARE</text>
+    <text x="35" y="162" class="title">Building devices that infer</text>
+    <text x="35" y="190" class="body">Real-time ML on constrained MCU hardware.</text>
+  </g>
+  <g transform="translate(420 28)">
+    <rect width="360" height="194" rx="14" fill="url(#card)" stroke="#25304A"/>
+    <rect x="47" y="48" width="86" height="70" rx="12" stroke="url(#g1)" stroke-width="5"/>
+    <path class="icon" d="M70 84h40M160 54v58M188 54v58M216 54v58"/>
+    <text x="35" y="128" class="eyebrow">FIRMWARE &amp; RTOS</text>
+    <text x="35" y="162" class="title">Low-level, timing-aware code</text>
+    <text x="35" y="190" class="body">Drivers, DMA, memory, tasks, and control loops.</text>
+  </g>
+  <g transform="translate(810 28)">
+    <rect width="360" height="194" rx="14" fill="url(#card)" stroke="#25304A"/>
+    <path class="icon" d="M48 108h150M78 78h90M78 138h90"/>
+    <circle cx="48" cy="108" r="8" fill="#00F5D4"/>
+    <circle cx="198" cy="108" r="8" fill="#8B5CF6"/>
+    <circle cx="78" cy="78" r="7" fill="#0B84FF"/>
+    <circle cx="168" cy="138" r="7" fill="#00F5D4"/>
+    <text x="35" y="128" class="eyebrow">PCB &amp; PROTOTYPING</text>
+    <text x="35" y="162" class="title">Custom hardware bring-up</text>
+    <text x="35" y="190" class="body">AFE, power, BMS wiring, sensors, and test.</text>
+  </g>
+</svg>

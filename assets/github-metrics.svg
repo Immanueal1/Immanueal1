@@ -1,0 +1,51 @@
+<svg fill="none" viewBox="0 0 1200 310" width="1200" height="310" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A12"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="40" x2="1120" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5D4"/>
+      <stop offset=".48" stop-color="#0B84FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <style>
+      .title{font:800 30px Inter,Segoe UI,Arial,sans-serif;fill:#F8FAFC}
+      .sub{font:500 15px Inter,Segoe UI,Arial,sans-serif;fill:#9FB3C8}
+      .label{font:800 15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#00F5D4;letter-spacing:1px}
+      .body{font:600 17px Inter,Segoe UI,Arial,sans-serif;fill:#E2E8F0}
+      .muted{font:500 13px Inter,Segoe UI,Arial,sans-serif;fill:#9FB3C8}
+    </style>
+  </defs>
+  <rect width="1200" height="310" rx="18" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="307" rx="16.5" stroke="url(#accent)" stroke-opacity=".72" stroke-width="3"/>
+  <text x="52" y="58" class="title">Developer Metrics</text>
+  <text x="52" y="86" class="sub">Stable repo-hosted summary designed to avoid broken third-party stat widgets while preserving the contribution snake automation.</text>
+  <g transform="translate(52 120)">
+    <rect width="250" height="126" rx="14" fill="#111827" stroke="#26324A"/>
+    <text x="24" y="36" class="label">PRIMARY STACK</text>
+    <text x="24" y="72" class="body">Embedded C/C++</text>
+    <text x="24" y="98" class="muted">ESP32 • RP2040 • STM32 • FreeRTOS</text>
+  </g>
+  <g transform="translate(330 120)">
+    <rect width="250" height="126" rx="14" fill="#111827" stroke="#26324A"/>
+    <text x="24" y="36" class="label">PRODUCT DEPTH</text>
+    <text x="24" y="72" class="body">Hardware to Firmware</text>
+    <text x="24" y="98" class="muted">PCB • AFE • BMS • IoT • Test</text>
+  </g>
+  <g transform="translate(608 120)">
+    <rect width="250" height="126" rx="14" fill="#111827" stroke="#26324A"/>
+    <text x="24" y="36" class="label">AI SIGNAL</text>
+    <text x="24" y="72" class="body">Edge ML Pipelines</text>
+    <text x="24" y="98" class="muted">Scikit-Learn • PyTorch • CV • TinyML</text>
+  </g>
+  <g transform="translate(886 120)">
+    <rect width="250" height="126" rx="14" fill="#111827" stroke="#26324A"/>
+    <text x="24" y="36" class="label">OPEN SOURCE</text>
+    <text x="24" y="72" class="body">GitHub Actions Ready</text>
+    <text x="24" y="98" class="muted">Snake graph • profile assets • docs</text>
+  </g>
+  <path d="M52 278H1148" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="-208" dur="9s" repeatCount="indefinite"/>
+  </path>
+</svg>

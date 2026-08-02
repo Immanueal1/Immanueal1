@@ -1,0 +1,105 @@
+<svg fill="none" viewBox="0 0 1200 1040" width="1200" height="1040" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="1040" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A12"/>
+      <stop offset="1" stop-color="#0D1324"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="70" y1="40" x2="1130" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5D4"/>
+      <stop offset=".5" stop-color="#0B84FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <style>
+      .head{font:800 26px Inter,Segoe UI,Arial,sans-serif;fill:#F8FAFC}
+      .cat{font:800 17px Inter,Segoe UI,Arial,sans-serif;fill:#00F5D4}
+      .name{font:700 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#E2E8F0}
+      .card{fill:#111827;stroke:#28344E;stroke-width:1.2}
+      .mark{font:900 20px Inter,Segoe UI,Arial,sans-serif;fill:#0B1120}
+      .disc{fill:url(#stroke)}
+    </style>
+  </defs>
+  <rect width="1200" height="1040" rx="20" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="1037" rx="18.5" stroke="url(#stroke)" stroke-opacity=".7" stroke-width="3"/>
+  <text x="60" y="62" class="head">Technical Skill Matrix</text>
+  <text x="60" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" fill="#9FB3C8">Consistent dark-theme SVG cards for firmware, electronics, AI, product design, and development workflows.</text>
+
+  <g transform="translate(60 130)">
+    <text class="cat">Programming</text>
+    <g transform="translate(0 22)">
+      <g><rect class="card" width="130" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">C</text><text x="72" y="41" text-anchor="middle" class="name">C</text></g>
+      <g transform="translate(142)"><rect class="card" width="130" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">C</text><text x="80" y="33" text-anchor="middle" class="name">Embedded</text><text x="80" y="50" text-anchor="middle" class="name">C</text></g>
+      <g transform="translate(284)"><rect class="card" width="130" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">++</text><text x="78" y="41" text-anchor="middle" class="name">C++</text></g>
+      <g transform="translate(426)"><rect class="card" width="130" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Py</text><text x="82" y="41" text-anchor="middle" class="name">Python</text></g>
+      <g transform="translate(568)"><rect class="card" width="130" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">M</text><text x="84" y="41" text-anchor="middle" class="name">MATLAB</text></g>
+      <g transform="translate(710)"><rect class="card" width="130" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">G</text><text x="74" y="41" text-anchor="middle" class="name">Git</text></g>
+      <g transform="translate(852)"><rect class="card" width="130" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">GH</text><text x="84" y="41" text-anchor="middle" class="name">GitHub</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(60 245)">
+    <text class="cat">Embedded Systems</text>
+    <g transform="translate(0 22)">
+      <g><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">E</text><text x="90" y="41" text-anchor="middle" class="name">ESP32</text></g>
+      <g transform="translate(162)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">A</text><text x="92" y="41" text-anchor="middle" class="name">Arduino</text></g>
+      <g transform="translate(324)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">RP</text><text x="96" y="41" text-anchor="middle" class="name">RP Pico</text></g>
+      <g transform="translate(486)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">ST</text><text x="88" y="41" text-anchor="middle" class="name">STM32</text></g>
+      <g transform="translate(648)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">RT</text><text x="96" y="41" text-anchor="middle" class="name">FreeRTOS</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(60 360)">
+    <text class="cat">Protocols &amp; Hardware Busses</text>
+    <g transform="translate(0 22)">
+      <g><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">U</text><text x="90" y="41" text-anchor="middle" class="name">UART</text></g>
+      <g transform="translate(162)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">S</text><text x="85" y="41" text-anchor="middle" class="name">SPI</text></g>
+      <g transform="translate(324)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">I²</text><text x="84" y="41" text-anchor="middle" class="name">I²C</text></g>
+      <g transform="translate(486)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">C</text><text x="92" y="41" text-anchor="middle" class="name">CAN Bus</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(60 475)">
+    <text class="cat">AI, Machine Learning &amp; Computer Vision</text>
+    <g transform="translate(0 22)">
+      <g><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">SK</text><text x="96" y="41" text-anchor="middle" class="name">Scikit</text></g>
+      <g transform="translate(162)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">TF</text><text x="101" y="41" text-anchor="middle" class="name">TensorFlow</text></g>
+      <g transform="translate(324)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">PT</text><text x="92" y="41" text-anchor="middle" class="name">PyTorch</text></g>
+      <g transform="translate(486)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">CV</text><text x="92" y="41" text-anchor="middle" class="name">OpenCV</text></g>
+      <g transform="translate(648)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Pd</text><text x="92" y="41" text-anchor="middle" class="name">Pandas</text></g>
+      <g transform="translate(810)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Np</text><text x="88" y="41" text-anchor="middle" class="name">NumPy</text></g>
+      <g transform="translate(972)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Mp</text><text x="100" y="41" text-anchor="middle" class="name">Matplotlib</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(60 590)">
+    <text class="cat">PCB Design &amp; Hardware Test Equipment</text>
+    <g transform="translate(0 22)">
+      <g><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">KC</text><text x="88" y="41" text-anchor="middle" class="name">KiCad</text></g>
+      <g transform="translate(162)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Pr</text><text x="94" y="41" text-anchor="middle" class="name">Proteus</text></g>
+      <g transform="translate(324)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Osc</text><text x="100" y="41" text-anchor="middle" class="name">Scope</text></g>
+      <g transform="translate(486)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">LA</text><text x="96" y="33" text-anchor="middle" class="name">Logic</text><text x="96" y="50" text-anchor="middle" class="name">Analyzer</text></g>
+      <g transform="translate(648)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">PE</text><text x="100" y="33" text-anchor="middle" class="name">Power</text><text x="100" y="50" text-anchor="middle" class="name">Electronics</text></g>
+      <g transform="translate(810)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">B</text><text x="88" y="41" text-anchor="middle" class="name">BMS</text></g>
+      <g transform="translate(972)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">CD</text><text x="100" y="33" text-anchor="middle" class="name">Circuit</text><text x="100" y="50" text-anchor="middle" class="name">Design</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(60 705)">
+    <text class="cat">Creative Software</text>
+    <g transform="translate(0 22)">
+      <g><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">PS</text><text x="98" y="41" text-anchor="middle" class="name">Photoshop</text></g>
+      <g transform="translate(162)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Ai</text><text x="98" y="41" text-anchor="middle" class="name">Illustrator</text></g>
+      <g transform="translate(324)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Pr</text><text x="98" y="33" text-anchor="middle" class="name">Premiere</text><text x="98" y="50" text-anchor="middle" class="name">Pro</text></g>
+      <g transform="translate(486)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">Lr</text><text x="98" y="41" text-anchor="middle" class="name">Lightroom</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(60 820)">
+    <text class="cat">Development &amp; IDE Tools</text>
+    <g transform="translate(0 22)">
+      <g><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">VS</text><text x="90" y="41" text-anchor="middle" class="name">VS Code</text></g>
+      <g transform="translate(162)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">A</text><text x="98" y="33" text-anchor="middle" class="name">Arduino</text><text x="98" y="50" text-anchor="middle" class="name">IDE</text></g>
+      <g transform="translate(324)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">PIO</text><text x="100" y="41" text-anchor="middle" class="name">PlatformIO</text></g>
+      <g transform="translate(486)"><rect class="card" width="150" height="70" rx="12"/><circle class="disc" cx="35" cy="35" r="19"/><text x="35" y="42" text-anchor="middle" class="mark">GA</text><text x="98" y="33" text-anchor="middle" class="name">GitHub</text><text x="98" y="50" text-anchor="middle" class="name">Actions</text></g>
+    </g>
+  </g>
+</svg>
