@@ -260,7 +260,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 <br/><br/>
 
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Immanueal1&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0A0A12&amp;title_color=22D3EE&amp;text_color=F5F5F7&amp;icon_color=EC4899" alt="GitHub stats for Immanueal1" />
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Immanueal1&amp;layout=compact&amp;theme=midnight-purple&amp;hide=html,css&amp;hide_border=true&amp;bg_color=0A0A12&amp;title_color=22D3EE&amp;text_color=F5F5F7" alt="Top programming languages for Immanueal1" />
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Immanueal1&amp;layout=compact&amp;langs_count=8&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0A0A12&amp;title_color=22D3EE&amp;text_color=F5F5F7" alt="Top programming languages for Immanueal1" />
 
 <br/><br/>
 
@@ -279,7 +279,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 <br/><br/>
 
 <h3>🧊 3D Contribution Calendar</h3>
-<img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contribution Calendar for Immanueal1" width="100%" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar for Immanueal1" width="100%" />
 
 </div>
 
