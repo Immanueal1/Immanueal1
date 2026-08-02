@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Local Custom SVG Hero Banner -->
-  <img src="./assets/hero_banner.svg" width="100%" alt="Krishna Kant Garhe - Hero Banner" />
+  <img src="./assets/hero_banner.svg" width="100%" alt="Krishna Kant Garhe - Hero Banner" /> 
 
   <br/><br/>
 
