@@ -325,6 +325,7 @@ I am excited to collaborate on **innovative hardware, firmware, clean energy, an
 <!--                               FOOTER                                      -->
 <!-- ========================================================================= -->
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:EC4899&height=120&section=footer" width="100%" alt="Footer wave" />
