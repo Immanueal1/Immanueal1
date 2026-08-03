@@ -1,29 +1,28 @@
 ========================================================================
-NOTICES AND THIRD-PARTY ATTRIBUTIONS
+COPYRIGHT AND PROPRIETARY NOTICE
 ========================================================================
 
-This project incorporates third-party open-source components, logos, and services.
-The original licenses and copyrights for these assets are acknowledged below.
+Copyright (c) 2026 Krishna Kant Garhe (Immanueal1). All Rights Reserved.
 
-1. Brand Icons & Vector Trademarks:
-   - Official logos for ESP32, Arduino, Raspberry Pi, STM32, C, C++, Python,
+STRICTLY CONFIDENTIAL AND PROPRIETARY.
+
+This repository contains original intellectual property, embedded C/C++ firmware,
+hardware schematics, PCB designs, Edge AI models, research documentation, and custom
+vector design system graphics created by Krishna Kant Garhe.
+
+No part of this repository may be copied, reproduced, modified, distributed,
+sublicensed, translated, or used in any form without prior written permission.
+
+========================================================================
+THIRD-PARTY TRADEMARK ACKNOWLEDGMENTS
+========================================================================
+
+1. Official Brand Logos:
+   - Trademarks for ESP32, Arduino, Raspberry Pi, STM32, C, C++, Python,
      TensorFlow, PyTorch, OpenCV, Scikit-Learn, KiCad, Adobe, Git, GitHub, VS Code
-     are trademarks of their respective owners and rights holders.
+     belong to their respective owners and rights holders.
 
-2. GitHub Readme Stats:
-   - Powered by github-readme-stats (Anurag Hazra / Vercel Mirror)
-   - License: MIT License
-
-3. GitHub Profile 3D Contrib:
-   - Created by SATO Yoshiyuki (yoshi389111/github-profile-3d-contrib)
-   - License: MIT License
-
-4. GitHub Contribution Grid Snake:
-   - Created by Platane (Platane/snk)
-   - License: MIT License
-
-5. Typing SVG Generator:
-   - Created by DenverCoder1 (readme-typing-svg)
-   - License: MIT License
-
-========================================================================
+2. Widgets & Services:
+   - github-readme-stats (Anurag Hazra / Vercel Mirror)
+   - github-profile-3d-contrib (SATO Yoshiyuki)
+   - Platane/snk (Platane)

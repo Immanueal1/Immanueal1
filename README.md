@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-22D3EE?style=flat-square&logo=open-source-initiative&logoColor=black" alt="MIT License"/></a>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-All_Rights_Reserved-FF0055?style=flat-square&logo=github&logoColor=white" alt="All Rights Reserved License"/></a>
 <a href="./docs/INSTALLATION.md"><img src="https://img.shields.io/badge/Docs-Production_Ready-8B5CF6?style=flat-square&logo=read-the-docs&logoColor=white" alt="Documentation"/></a>
 <a href="./CHANGELOG.md"><img src="https://img.shields.io/badge/Version-v1.2.0-EC4899?style=flat-square&logo=github&logoColor=white" alt="Version"/></a>
 <a href="./CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor_Covenant-v2.1-38BDF8?style=flat-square" alt="Code of Conduct"/></a>
