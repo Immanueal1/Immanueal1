@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or reference this research paper, embedded firmware, or hardware design in your academic or technical work, please cite it as below."
+authors:
+  - family-names: "Garhe"
+    given-names: "Krishna Kant"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Bhilai Institute of Technology (BIT Durg)"
+title: "NIR-Based Portable Microplastic Analyzer using ESP32 & Edge ML"
+version: 1.2.0
+date-released: 2026-08-01
+repository-code: "https://github.com/Immanueal1/Immanueal1"
+url: "https://github.com/Immanueal1/Immanueal1"
+keywords:
+  - "Embedded C++"
+  - "ESP32"
+  - "RP2040"
+  - "Edge AI"
+  - "TinyML"
+  - "NIR Spectrometry"
+  - "PCB Design"
+  - "Microplastics"
+abstract: "A portable, low-cost near-infrared (NIR) spectrometry system using ESP32 MCU and AS7263 spectral sensor paired with edge machine learning classifiers (SVM, Random Forest, CNN) for field-ready polymer signature detection."

@@ -1,0 +1,15 @@
+# Dependabot configuration for GitHub Actions and dependencies
+
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "Immanueal1"
+    labels:
+      - "dependencies"
+      - "ci/cd"

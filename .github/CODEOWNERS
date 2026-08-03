@@ -1,0 +1,21 @@
+# CODEOWNERS for Immanueal1 Repository
+
+# Global default code owner
+* @Immanueal1
+
+# Governance and Legal files
+/LICENSE @Immanueal1
+/SECURITY.md @Immanueal1
+/CODE_OF_CONDUCT.md @Immanueal1
+/CONTRIBUTING.md @Immanueal1
+/NOTICE @Immanueal1
+
+# CI/CD Workflows & GitHub Configuration
+/.github/ @Immanueal1
+/.github/workflows/ @Immanueal1
+
+# Assets and Visual Design System
+/assets/ @Immanueal1
+
+# Technical Documentation
+/docs/ @Immanueal1

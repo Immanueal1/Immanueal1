@@ -1,0 +1,34 @@
+name: 🚀 Feature Request
+description: Suggest a new feature, hardware integration, or asset improvement.
+title: "[FEAT]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest an improvement or new feature for this open-source repository!
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Description
+      description: Describe the feature you would like to see added.
+      placeholder: e.g., Add a KiCad 3D PCB render image for the NIR Microplastic Analyzer.
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: Problem Statement / Motivation
+      description: Is your feature request related to a problem? Explain the motivation behind it.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative Solutions Considered
+      description: Describe any alternative solutions or features you've considered.
+    validations:
+      required: false

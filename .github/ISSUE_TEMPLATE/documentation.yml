@@ -1,0 +1,20 @@
+name: 📜 Documentation Improvement
+description: Suggest fixes, additions, or updates to documentation in docs/ or README.md.
+title: "[DOCS]: "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: docs-summary
+    attributes:
+      label: Documentation Area
+      description: Which document needs improvement? (e.g., docs/HARDWARE_SETUP.md, README.md, etc.)
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-changes
+    attributes:
+      label: Proposed Changes
+      description: Detail the changes or additions you would like to make.
+    validations:
+      required: true

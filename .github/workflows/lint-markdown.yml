@@ -1,0 +1,26 @@
+name: Lint Markdown & Links
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint-markdown:
+    name: Markdown & Link Validation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validate Markdown Files
+        run: |
+          npx -y markdownlint-cli "**/*.md" --ignore node_modules

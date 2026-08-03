@@ -1,0 +1,20 @@
+name: ❓ Support Question
+description: Ask a technical question about hardware, firmware drivers, or edge ML pipelines.
+title: "[QUESTION]: "
+labels: ["help wanted"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question / Support Topic
+      description: What is your question? Provide as much relevant context as possible.
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Hardware / Firmware Context
+      description: Specify MCU model (ESP32 / RP2040 / STM32), IDE version, sensor models, or library versions.
+    validations:
+      required: false

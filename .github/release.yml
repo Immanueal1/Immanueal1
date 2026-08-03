@@ -1,0 +1,25 @@
+# Automated GitHub Release Configuration
+
+changelog:
+  exclude:
+    labels:
+      - ignore
+      - documentation
+    authors:
+      - dependabot[bot]
+  categories:
+    - title: "🚀 Features & Enhancements"
+      labels:
+        - feature
+        - enhancement
+    - title: "🐛 Bug Fixes & Repairs"
+      labels:
+        - bug
+        - fix
+    - title: "🛠️ Infrastructure & Workflows"
+      labels:
+        - ci/cd
+        - dependencies
+    - title: "📜 Documentation"
+      labels:
+        - documentation

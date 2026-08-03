@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/Immanueal1/Immanueal1/discussions
+    about: Ask questions, share ideas, and discuss hardware/firmware architecture with the community.
+  - name: ✉️ Contact Maintainer
+    url: mailto:krishnakantgarhe@gmail.com
+    about: Direct professional contact for engineering inquiries or project collaborations.

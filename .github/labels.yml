@@ -1,0 +1,39 @@
+- name: "bug"
+  color: "d73a4a"
+  description: "Something isn't working"
+
+- name: "enhancement"
+  color: "a2eeef"
+  description: "New feature or request"
+
+- name: "documentation"
+  color: "0075ca"
+  description: "Improvements or additions to documentation"
+
+- name: "good first issue"
+  color: "7057ff"
+  description: "Good for newcomers"
+
+- name: "help wanted"
+  color: "008672"
+  description: "Extra attention is needed"
+
+- name: "hardware"
+  color: "8b5cf6"
+  description: "PCB design, schematic, or physical hardware component"
+
+- name: "firmware"
+  color: "22d3ee"
+  description: "ESP32, RP2040, STM32 C/C++ firmware code"
+
+- name: "edge-ai"
+  color: "ec4899"
+  description: "TinyML, Scikit-Learn, PyTorch, or sensor ML models"
+
+- name: "ci/cd"
+  color: "e99695"
+  description: "GitHub Actions workflows and automation"
+
+- name: "security"
+  color: "b60205"
+  description: "Security vulnerability or disclosure"
