@@ -277,7 +277,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Immanueal1&theme=midnight-purple&hide_border=true&background=0A0A12&ring=EC4899&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak stats for Immanueal1" />
+<img src="https://streak-stats.vercel.app/?user=Immanueal1&theme=midnight-purple&hide_border=true&background=0A0A12&ring=EC4899&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak stats for Immanueal1" />
 
 <br/><br/>
 
