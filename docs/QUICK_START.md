@@ -59,3 +59,12 @@ All profile SVG assets match the **Dark Neon Dashboard Design System** (`#090A12
 # Regenerate Technical Skill Matrix SVG
 python scratch/gen_tech_stack.py
 ```
+
+---
+
+## 4. Contributing & Pull Requests
+
+Follow standard GitHub flow to propose changes:
+1. Create a feature branch (`git checkout -b feature/your-feature`)
+2. Commit changes and push to origin
+3. Submit a Pull Request targeting `main`
