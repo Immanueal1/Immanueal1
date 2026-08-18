@@ -268,7 +268,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/Immanueal1?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-<img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views counter" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FImmanueal1&label=PROFILE%20VIEWS&labelColor=%230a0a12&countColor=%238b5cf6&style=for-the-badge" alt="Profile views counter" />
 
 <br/><br/>
 
