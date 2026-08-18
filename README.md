@@ -345,6 +345,6 @@ I am excited to collaborate on **innovative hardware, firmware, clean energy, an
 
 <h3>⚡ Thanks for visiting ⚡</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Immanueal1&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views counter" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FImmanueal1&label=PROFILE%20VIEWS&labelColor=%230a0a12&countColor=%238b5cf6&style=flat-square" alt="Profile views counter" />
 
 </div>
