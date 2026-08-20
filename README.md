@@ -268,7 +268,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/Immanueal1?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-525%2B-8b5cf6?style=for-the-badge&logo=github&labelColor=0a0a12" alt="Profile views counter" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FImmanueal1&label=PROFILE%20VIEWS&labelColor=%230a0a12&countColor=%238b5cf6&style=for-the-badge" alt="Profile views counter" />
 
 <br/><br/>
 
@@ -345,6 +345,6 @@ I am excited to collaborate on **innovative hardware, firmware, clean energy, an
 
 <h3>⚡ Thanks for visiting ⚡</h3>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-525%2B-8b5cf6?style=flat-square&logo=github&labelColor=0a0a12" alt="Profile views counter" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FImmanueal1&label=PROFILE%20VIEWS&labelColor=%230a0a12&countColor=%238b5cf6&style=flat-square" alt="Profile views counter" />
 
 </div>
