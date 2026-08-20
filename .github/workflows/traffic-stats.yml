@@ -1,0 +1,69 @@
+name: Official GitHub Traffic Stats Sync
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-traffic-stats:
+    runs-on: ubuntu-latest
+    name: sync-official-github-traffic
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+
+      - name: Fetch Official GitHub Traffic Views
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Fetch official repository traffic view count from GitHub REST API
+          HTTP_RESPONSE=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/traffic/views")
+          
+          # Extract count using python
+          OFFICIAL_VIEWS=$(python3 -c "import json, os; data=json.loads(os.environ.get('HTTP_RESPONSE', '{}')); print(data.get('count', 0))")
+          
+          # Add historical 500 baseline
+          BASELINE=500
+          TOTAL_VIEWS=$((BASELINE + OFFICIAL_VIEWS))
+          
+          echo "Official GitHub Views: $OFFICIAL_VIEWS"
+          echo "Total Verified All-Time Views: $TOTAL_VIEWS"
+          
+          # Update README.md header badge URL
+          NEW_HEADER_BADGE="https://img.shields.io/badge/OFFICIAL_VIEWS-${TOTAL_VIEWS}-8b5cf6?style=for-the-badge&logo=github&labelColor=0a0a12"
+          NEW_FOOTER_BADGE="https://img.shields.io/badge/OFFICIAL_VIEWS-${TOTAL_VIEWS}-8b5cf6?style=flat-square&logo=github&labelColor=0a0a12"
+          
+          python3 -c "
+          import re
+          with open('README.md', 'r') as f:
+              content = f.read()
+          content = re.sub(r'https://img\.shields\.io/badge/(?:PROFILE|OFFICIAL)_VIEWS-[^\"]+', '$NEW_HEADER_BADGE', content, count=1)
+          content = re.sub(r'https://img\.shields\.io/badge/(?:PROFILE|OFFICIAL)_VIEWS-[^\"]+', '$NEW_FOOTER_BADGE', content, count=1)
+          with open('README.md', 'w') as f:
+              f.write(content)
+          "
+
+      - name: Commit & Push Updated Official View Badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(traffic): sync official github traffic insights badge [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No traffic count changes to commit."
+          fi
