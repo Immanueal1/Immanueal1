@@ -175,7 +175,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
     <td width="50%" valign="top" align="center">
       <h3>📑 Peer-Reviewed Research Publication</h3>
       <a href="./assets/publication_certificate.pdf">
-        <img src="./assets/Certificates/thumbnails/publication_thumb.png" width="85%" alt="NIR Sensor Microplastic Analyzer Research Paper Certificate Preview" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);"/>
+        <img src="./assets/Certificates/thumbnails/publication_thumb.png" width="140" alt="NIR Sensor Microplastic Analyzer Research Paper Certificate Preview" style="border-radius: 6px; box-shadow: 0 3px 8px rgba(0,0,0,0.4);"/>
       </a>
       <br/><br/>
       <p align="left"><b>NIR SENSOR-BASED MICROPLASTIC ANALYZER</b></p>
@@ -190,7 +190,7 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
     <td width="50%" valign="top" align="center">
       <h3>🛰️ Space Technology & Aerospace Internship</h3>
       <a href="./assets/Certificates/Internship%20Indian%20Space%20lab.pdf">
-        <img src="./assets/Certificates/thumbnails/space_internship_thumb.png" width="95%" alt="India Space Lab Winter Internship Certificate Preview" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);"/>
+        <img src="./assets/Certificates/thumbnails/space_internship_thumb.png" width="140" alt="India Space Lab Winter Internship Certificate Preview" style="border-radius: 6px; box-shadow: 0 3px 8px rgba(0,0,0,0.4);"/>
       </a>
       <br/><br/>
       <p align="left"><b>India Space Lab — Winter Internship Program (2026)</b></p>
@@ -215,12 +215,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
       <h4 align="center">🤖 Robotics, Embedded & Core Engineering</h4>
       <table width="100%">
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Certificates/q8m3gpN4ETXnjapPq_3w79S9RRBtn9noDWZ_69733a43b1ee4126d0923cd3_1790962200701_completion_certificate.pdf">
-              <img src="./assets/Certificates/thumbnails/robotics_medtech_thumb.png" width="100%" alt="Johnson & Johnson Robotics Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/robotics_medtech_thumb.png" width="110" alt="Johnson & Johnson Robotics Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>Johnson & Johnson MedTech</b><br/>
             <sub><i>Robotics & Controls Simulation</i> (Oct 2026)</sub><br/>
             <small>Surgical robot arm latency diagnosis & control loop optimization.</small><br/>
@@ -228,12 +228,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
           </td>
         </tr>
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Certificates/10846112_11207963_1791293313062.pdf">
-              <img src="./assets/Certificates/thumbnails/embedded_systems_thumb.png" width="100%" alt="Simplilearn Embedded Systems Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/embedded_systems_thumb.png" width="110" alt="Simplilearn Embedded Systems Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>Simplilearn SkillUp</b><br/>
             <sub><i>Embedded Systems Course</i> (Oct 2026)</sub><br/>
             <small>Code: <code>10846112</code> — MCU firmware, peripherals & real-time interfacing.</small><br/>
@@ -241,12 +241,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
           </td>
         </tr>
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C%20IIT%20B%20Springboard.pdf">
-              <img src="./assets/Certificates/thumbnails/c_iitb_thumb.png" width="100%" alt="IIT Bombay C Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/c_iitb_thumb.png" width="110" alt="IIT Bombay C Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>IIT Bombay (Spoken Tutorial)</b><br/>
             <sub><i>C Programming Certification</i> (Jan 2024)</sub><br/>
             <small>Score: <b>77.50%</b> | 2 Credits | Code: <code>3735676KEC</code></small><br/>
@@ -254,12 +254,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
           </td>
         </tr>
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C++%20IIT%20B%20Springboard.pdf">
-              <img src="./assets/Certificates/thumbnails/cpp_iitb_thumb.png" width="100%" alt="IIT Bombay C++ Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/cpp_iitb_thumb.png" width="110" alt="IIT Bombay C++ Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>IIT Bombay (Spoken Tutorial)</b><br/>
             <sub><i>C++ Programming Certification</i> (Jan 2024)</sub><br/>
             <small>Score: <b>60.00%</b> | 2 Credits | Code: <code>373567602O</code></small><br/>
@@ -272,12 +272,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
       <h4 align="center">📊 Data Science, Analytics & Security</h4>
       <table width="100%">
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Certificates/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000228393_completion_certificate.pdf">
-              <img src="./assets/Certificates/thumbnails/analytics_deloitte_thumb.png" width="100%" alt="Deloitte Analytics Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/analytics_deloitte_thumb.png" width="110" alt="Deloitte Analytics Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>Deloitte</b><br/>
             <sub><i>Data Analytics Simulation</i> (Oct 2026)</sub><br/>
             <small>Forensic technology investigation, data cleaning & analytics.</small><br/>
@@ -285,12 +285,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
           </td>
         </tr>
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Certificates/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000838305_completion_certificate.pdf">
-              <img src="./assets/Certificates/thumbnails/cyber_deloitte_thumb.png" width="100%" alt="Deloitte Cybersecurity Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/cyber_deloitte_thumb.png" width="110" alt="Deloitte Cybersecurity Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>Deloitte</b><br/>
             <sub><i>Cybersecurity Job Simulation</i> (Oct 2026)</sub><br/>
             <small>Cyber threat analysis, security controls & vulnerability management.</small><br/>
@@ -298,12 +298,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
           </td>
         </tr>
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Certificates/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_69733a43b1ee4126d0923cd3_1791052102732_completion_certificate.pdf">
-              <img src="./assets/Certificates/thumbnails/datascience_forage_thumb.png" width="100%" alt="Forage Data Science Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/datascience_forage_thumb.png" width="110" alt="Forage Data Science Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>Forage</b><br/>
             <sub><i>Data Science Job Simulation</i> (Oct 2026)</sub><br/>
             <small>Problem framing, EDA, feature engineering & model evaluation.</small><br/>
@@ -311,12 +311,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
           </td>
         </tr>
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Python%20certificate.pdf">
-              <img src="./assets/Certificates/thumbnails/python_skill_india_thumb.png" width="100%" alt="Skill India Python Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/python_skill_india_thumb.png" width="110" alt="Skill India Python Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>Skill India Digital / Reliance Foundation</b><br/>
             <sub><i>Python Programming (90-Hr)</i> (Jul 2026)</sub><br/>
             <small>NSDC Authorized online skilling certification.</small><br/>
@@ -324,12 +324,12 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
           </td>
         </tr>
         <tr>
-          <td width="35%" align="center" valign="middle">
+          <td width="120" align="center" valign="middle">
             <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20HTML%20IIT%20B%20Springboard.pdf">
-              <img src="./assets/Certificates/thumbnails/html_iitb_thumb.png" width="100%" alt="IIT Bombay HTML Certificate Preview"/>
+              <img src="./assets/Certificates/thumbnails/html_iitb_thumb.png" width="110" alt="IIT Bombay HTML Certificate Preview" style="border-radius: 4px;"/>
             </a>
           </td>
-          <td width="65%" valign="top">
+          <td valign="top">
             <b>IIT Bombay (Spoken Tutorial)</b><br/>
             <sub><i>HTML Web Technologies</i> (Jan 2024)</sub><br/>
             <small>Score: <b>67.50%</b> | 1 Credit | Code: <code>3735676SFR</code></small><br/>
