@@ -161,30 +161,105 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 <img src="./assets/divider.svg" width="100%" alt="Section divider" />
 
 <!-- ========================================================================= -->
-<!--                    RESEARCH & CERTIFICATIONS                              -->
+<!--          VERIFIED RESEARCH, INTERNSHIPS & TECHNICAL CERTIFICATIONS        -->
 <!-- ========================================================================= -->
 
-## 🔬 Research & Certifications
+## 🔬 Verified Research, Internships & Technical Certifications
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>📑 Peer-Reviewed Research Publication</h3>
-      <p><b>NIR-Based Portable Microplastic Analyzer using ESP32 & Edge ML</b></p>
-      <p>Published research on portable NIR spectrometry and polymer signature classification for field-ready environmental analysis.</p>
+      <p><b>NIR SENSOR-BASED MICROPLASTIC ANALYZER</b></p>
+      <p>Published research on portable NIR spectrometry, optical sensor calibration, and polymer signature classification for field-ready microplastic identification.</p>
+      <p>
+        <code>IRJMETS</code> <code>Impact Factor: 8.187</code> <code>DOI: 10.56726/IRJMETS93708</code>
+      </p>
       <p align="center">
-        <a href="./assets/publication_certificate.pdf"><img src="https://img.shields.io/badge/Research_Paper-View_Journal_PDF-22D3EE?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Research paper PDF"/></a>
+        <a href="./assets/publication_certificate.pdf"><img src="https://img.shields.io/badge/Research_Paper-View_Journal_Certificate-22D3EE?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Research paper PDF"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📜 Technical Certifications</h3>
+      <h3>🛰️ Space Technology & Aerospace Internship</h3>
+      <p><b>India Space Lab — Winter Internship Program (2026)</b></p>
+      <p>Technical training program certified by Skill India & UN-GGIM Academic Network covering satellite, rocketry, and spatial technologies.</p>
       <p>
-        <a href="./assets/cpp_certificate_iit_bombay.png"><img src="https://img.shields.io/badge/IIT_Bombay-Advanced_C++_Certification-0A66C2?style=flat-square&logo=c%2B%2B&logoColor=white" alt="IIT Bombay C++ certification"/></a>
-        <br/><br/>
-        <a href="./assets/c_certificate_iit_bombay.png"><img src="https://img.shields.io/badge/IIT_Bombay-C_Programming_Certification-00599C?style=flat-square&logo=c&logoColor=white" alt="IIT Bombay C certification"/></a>
-        <br/><br/>
-        <a href="./assets/Python%20certificate.pdf"><img src="https://img.shields.io/badge/Python-Advanced_Data_Science_Certification-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python data science certification"/></a>
+        <code>Drones</code> <code>CanSat & CubeSat</code> <code>Rocketry</code> <code>GIS & Remote Sensing</code>
       </p>
+      <p align="center">
+        <a href="./assets/Certificates/Internship%20Indian%20Space%20lab.pdf"><img src="https://img.shields.io/badge/India_Space_Lab-View_Space_Internship_Certificate-8B5CF6?style=for-the-badge&logo=nasa&logoColor=white" alt="Space Internship PDF"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📜 Technical Certifications & Industry Simulations
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Robotics, Embedded & Core Engineering</h4>
+      <ul>
+        <li>
+          <b>Johnson & Johnson MedTech</b> — <i>Robotics & Controls Simulation</i> (Oct 2026)<br/>
+          <sub>Diagnosing surgical robot arm latency & control loop optimization.</sub><br/>
+          <a href="./assets/Certificates/q8m3gpN4ETXnjapPq_3w79S9RRBtn9noDWZ_69733a43b1ee4126d0923cd3_1790962200701_completion_certificate.pdf"><code>[View Certificate PDF]</code></a>
+        </li>
+        <br/>
+        <li>
+          <b>Simplilearn SkillUp</b> — <i>Embedded Systems Professional Course</i> (Oct 2026)<br/>
+          <sub>Code: <code>10846112</code> — MCU firmware, peripherals & real-time interfacing.</sub><br/>
+          <a href="./assets/Certificates/10846112_11207963_1791293313062.pdf"><code>[View Certificate PDF]</code></a>
+        </li>
+        <br/>
+        <li>
+          <b>IIT Bombay (Spoken Tutorial)</b> — <i>C Programming Certification</i> (Jan 2024)<br/>
+          <sub>Score: <b>77.50%</b> | 2 Credits | Code: <code>3735676KEC</code></sub><br/>
+          <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C%20IIT%20B%20Springboard.pdf"><code>[View IIT Bombay C Certificate]</code></a>
+        </li>
+        <br/>
+        <li>
+          <b>IIT Bombay (Spoken Tutorial)</b> — <i>C++ Programming Certification</i> (Jan 2024)<br/>
+          <sub>Score: <b>60.00%</b> | 2 Credits | Code: <code>373567602O</code></sub><br/>
+          <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C++%20IIT%20B%20Springboard.pdf"><code>[View IIT Bombay C++ Certificate]</code></a>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Data Science, Analytics & Security</h4>
+      <ul>
+        <li>
+          <b>Deloitte</b> — <i>Data Analytics Simulation</i> (Oct 2026)<br/>
+          <sub>Forensic technology investigation, data cleaning & analytics.</sub><br/>
+          <a href="./assets/Certificates/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000228393_completion_certificate.pdf"><code>[View Deloitte Analytics Certificate]</code></a>
+        </li>
+        <br/>
+        <li>
+          <b>Deloitte</b> — <i>Cybersecurity Job Simulation</i> (Oct 2026)<br/>
+          <sub>Cyber threat analysis, security controls & vulnerability management.</sub><br/>
+          <a href="./assets/Certificates/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000838305_completion_certificate.pdf"><code>[View Deloitte Cyber Certificate]</code></a>
+        </li>
+        <br/>
+        <li>
+          <b>Forage</b> — <i>Data Science Job Simulation</i> (Oct 2026)<br/>
+          <sub>Problem framing, EDA, feature engineering & model evaluation.</sub><br/>
+          <a href="./assets/Certificates/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_69733a43b1ee4126d0923cd3_1791052102732_completion_certificate.pdf"><code>[View Data Science Certificate]</code></a>
+        </li>
+        <br/>
+        <li>
+          <b>Skill India Digital / Reliance Foundation</b> — <i>Python Programming (90-Hr)</i> (Jul 2026)<br/>
+          <sub>NSDC Authorized online skilling certification.</sub><br/>
+          <a href="./assets/Python%20certificate.pdf"><code>[View Skill India Python Certificate]</code></a>
+        </li>
+        <br/>
+        <li>
+          <b>IIT Bombay (Spoken Tutorial)</b> — <i>HTML Web Technologies</i> (Jan 2024)<br/>
+          <sub>Score: <b>67.50%</b> | 1 Credit | Code: <code>3735676SFR</code></sub><br/>
+          <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20HTML%20IIT%20B%20Springboard.pdf"><code>[View IIT Bombay HTML Certificate]</code></a>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
