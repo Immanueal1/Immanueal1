@@ -164,26 +164,38 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 <!--          VERIFIED RESEARCH, INTERNSHIPS & TECHNICAL CERTIFICATIONS        -->
 <!-- ========================================================================= -->
 
+<!-- ========================================================================= -->
+<!--          VERIFIED RESEARCH, INTERNSHIPS & TECHNICAL CERTIFICATIONS        -->
+<!-- ========================================================================= -->
+
 ## 🔬 Verified Research, Internships & Technical Certifications
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>📑 Peer-Reviewed Research Publication</h3>
-      <p><b>NIR SENSOR-BASED MICROPLASTIC ANALYZER</b></p>
-      <p>Published research on portable NIR spectrometry, optical sensor calibration, and polymer signature classification for field-ready microplastic identification.</p>
-      <p>
+      <a href="./assets/publication_certificate.pdf">
+        <img src="./assets/Certificates/thumbnails/publication_thumb.png" width="85%" alt="NIR Sensor Microplastic Analyzer Research Paper Certificate Preview" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);"/>
+      </a>
+      <br/><br/>
+      <p align="left"><b>NIR SENSOR-BASED MICROPLASTIC ANALYZER</b></p>
+      <p align="left">Published research on portable NIR spectrometry, optical sensor calibration, and polymer signature classification for field-ready microplastic identification.</p>
+      <p align="left">
         <code>IRJMETS</code> <code>Impact Factor: 8.187</code> <code>DOI: 10.56726/IRJMETS93708</code>
       </p>
       <p align="center">
         <a href="./assets/publication_certificate.pdf"><img src="https://img.shields.io/badge/Research_Paper-View_Journal_Certificate-22D3EE?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Research paper PDF"/></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🛰️ Space Technology & Aerospace Internship</h3>
-      <p><b>India Space Lab — Winter Internship Program (2026)</b></p>
-      <p>Technical training program certified by Skill India & UN-GGIM Academic Network covering satellite, rocketry, and spatial technologies.</p>
-      <p>
+      <a href="./assets/Certificates/Internship%20Indian%20Space%20lab.pdf">
+        <img src="./assets/Certificates/thumbnails/space_internship_thumb.png" width="95%" alt="India Space Lab Winter Internship Certificate Preview" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);"/>
+      </a>
+      <br/><br/>
+      <p align="left"><b>India Space Lab — Winter Internship Program (2026)</b></p>
+      <p align="left">Technical training program certified by Skill India & UN-GGIM Academic Network covering satellite, rocketry, and spatial technologies.</p>
+      <p align="left">
         <code>Drones</code> <code>CanSat & CubeSat</code> <code>Rocketry</code> <code>GIS & Remote Sensing</code>
       </p>
       <p align="center">
@@ -195,71 +207,136 @@ I am an **Electronics & Telecommunication Engineering graduate from BIT Durg** b
 
 <br/>
 
-### 📜 Technical Certifications & Industry Simulations
+### 📜 Technical Certifications & Specialization Previews
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Robotics, Embedded & Core Engineering</h4>
-      <ul>
-        <li>
-          <b>Johnson & Johnson MedTech</b> — <i>Robotics & Controls Simulation</i> (Oct 2026)<br/>
-          <sub>Diagnosing surgical robot arm latency & control loop optimization.</sub><br/>
-          <a href="./assets/Certificates/q8m3gpN4ETXnjapPq_3w79S9RRBtn9noDWZ_69733a43b1ee4126d0923cd3_1790962200701_completion_certificate.pdf"><code>[View Certificate PDF]</code></a>
-        </li>
-        <br/>
-        <li>
-          <b>Simplilearn SkillUp</b> — <i>Embedded Systems Professional Course</i> (Oct 2026)<br/>
-          <sub>Code: <code>10846112</code> — MCU firmware, peripherals & real-time interfacing.</sub><br/>
-          <a href="./assets/Certificates/10846112_11207963_1791293313062.pdf"><code>[View Certificate PDF]</code></a>
-        </li>
-        <br/>
-        <li>
-          <b>IIT Bombay (Spoken Tutorial)</b> — <i>C Programming Certification</i> (Jan 2024)<br/>
-          <sub>Score: <b>77.50%</b> | 2 Credits | Code: <code>3735676KEC</code></sub><br/>
-          <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C%20IIT%20B%20Springboard.pdf"><code>[View IIT Bombay C Certificate]</code></a>
-        </li>
-        <br/>
-        <li>
-          <b>IIT Bombay (Spoken Tutorial)</b> — <i>C++ Programming Certification</i> (Jan 2024)<br/>
-          <sub>Score: <b>60.00%</b> | 2 Credits | Code: <code>373567602O</code></sub><br/>
-          <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C++%20IIT%20B%20Springboard.pdf"><code>[View IIT Bombay C++ Certificate]</code></a>
-        </li>
-      </ul>
+      <h4 align="center">🤖 Robotics, Embedded & Core Engineering</h4>
+      <table width="100%">
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Certificates/q8m3gpN4ETXnjapPq_3w79S9RRBtn9noDWZ_69733a43b1ee4126d0923cd3_1790962200701_completion_certificate.pdf">
+              <img src="./assets/Certificates/thumbnails/robotics_medtech_thumb.png" width="100%" alt="Johnson & Johnson Robotics Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>Johnson & Johnson MedTech</b><br/>
+            <sub><i>Robotics & Controls Simulation</i> (Oct 2026)</sub><br/>
+            <small>Surgical robot arm latency diagnosis & control loop optimization.</small><br/>
+            <a href="./assets/Certificates/q8m3gpN4ETXnjapPq_3w79S9RRBtn9noDWZ_69733a43b1ee4126d0923cd3_1790962200701_completion_certificate.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Certificates/10846112_11207963_1791293313062.pdf">
+              <img src="./assets/Certificates/thumbnails/embedded_systems_thumb.png" width="100%" alt="Simplilearn Embedded Systems Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>Simplilearn SkillUp</b><br/>
+            <sub><i>Embedded Systems Course</i> (Oct 2026)</sub><br/>
+            <small>Code: <code>10846112</code> — MCU firmware, peripherals & real-time interfacing.</small><br/>
+            <a href="./assets/Certificates/10846112_11207963_1791293313062.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C%20IIT%20B%20Springboard.pdf">
+              <img src="./assets/Certificates/thumbnails/c_iitb_thumb.png" width="100%" alt="IIT Bombay C Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>IIT Bombay (Spoken Tutorial)</b><br/>
+            <sub><i>C Programming Certification</i> (Jan 2024)</sub><br/>
+            <small>Score: <b>77.50%</b> | 2 Credits | Code: <code>3735676KEC</code></small><br/>
+            <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C%20IIT%20B%20Springboard.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C++%20IIT%20B%20Springboard.pdf">
+              <img src="./assets/Certificates/thumbnails/cpp_iitb_thumb.png" width="100%" alt="IIT Bombay C++ Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>IIT Bombay (Spoken Tutorial)</b><br/>
+            <sub><i>C++ Programming Certification</i> (Jan 2024)</sub><br/>
+            <small>Score: <b>60.00%</b> | 2 Credits | Code: <code>373567602O</code></small><br/>
+            <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20C++%20IIT%20B%20Springboard.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Data Science, Analytics & Security</h4>
-      <ul>
-        <li>
-          <b>Deloitte</b> — <i>Data Analytics Simulation</i> (Oct 2026)<br/>
-          <sub>Forensic technology investigation, data cleaning & analytics.</sub><br/>
-          <a href="./assets/Certificates/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000228393_completion_certificate.pdf"><code>[View Deloitte Analytics Certificate]</code></a>
-        </li>
-        <br/>
-        <li>
-          <b>Deloitte</b> — <i>Cybersecurity Job Simulation</i> (Oct 2026)<br/>
-          <sub>Cyber threat analysis, security controls & vulnerability management.</sub><br/>
-          <a href="./assets/Certificates/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000838305_completion_certificate.pdf"><code>[View Deloitte Cyber Certificate]</code></a>
-        </li>
-        <br/>
-        <li>
-          <b>Forage</b> — <i>Data Science Job Simulation</i> (Oct 2026)<br/>
-          <sub>Problem framing, EDA, feature engineering & model evaluation.</sub><br/>
-          <a href="./assets/Certificates/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_69733a43b1ee4126d0923cd3_1791052102732_completion_certificate.pdf"><code>[View Data Science Certificate]</code></a>
-        </li>
-        <br/>
-        <li>
-          <b>Skill India Digital / Reliance Foundation</b> — <i>Python Programming (90-Hr)</i> (Jul 2026)<br/>
-          <sub>NSDC Authorized online skilling certification.</sub><br/>
-          <a href="./assets/Python%20certificate.pdf"><code>[View Skill India Python Certificate]</code></a>
-        </li>
-        <br/>
-        <li>
-          <b>IIT Bombay (Spoken Tutorial)</b> — <i>HTML Web Technologies</i> (Jan 2024)<br/>
-          <sub>Score: <b>67.50%</b> | 1 Credit | Code: <code>3735676SFR</code></sub><br/>
-          <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20HTML%20IIT%20B%20Springboard.pdf"><code>[View IIT Bombay HTML Certificate]</code></a>
-        </li>
-      </ul>
+      <h4 align="center">📊 Data Science, Analytics & Security</h4>
+      <table width="100%">
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Certificates/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000228393_completion_certificate.pdf">
+              <img src="./assets/Certificates/thumbnails/analytics_deloitte_thumb.png" width="100%" alt="Deloitte Analytics Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>Deloitte</b><br/>
+            <sub><i>Data Analytics Simulation</i> (Oct 2026)</sub><br/>
+            <small>Forensic technology investigation, data cleaning & analytics.</small><br/>
+            <a href="./assets/Certificates/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000228393_completion_certificate.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Certificates/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000838305_completion_certificate.pdf">
+              <img src="./assets/Certificates/thumbnails/cyber_deloitte_thumb.png" width="100%" alt="Deloitte Cybersecurity Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>Deloitte</b><br/>
+            <sub><i>Cybersecurity Job Simulation</i> (Oct 2026)</sub><br/>
+            <small>Cyber threat analysis, security controls & vulnerability management.</small><br/>
+            <a href="./assets/Certificates/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69733a43b1ee4126d0923cd3_1791000838305_completion_certificate.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Certificates/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_69733a43b1ee4126d0923cd3_1791052102732_completion_certificate.pdf">
+              <img src="./assets/Certificates/thumbnails/datascience_forage_thumb.png" width="100%" alt="Forage Data Science Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>Forage</b><br/>
+            <sub><i>Data Science Job Simulation</i> (Oct 2026)</sub><br/>
+            <small>Problem framing, EDA, feature engineering & model evaluation.</small><br/>
+            <a href="./assets/Certificates/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_69733a43b1ee4126d0923cd3_1791052102732_completion_certificate.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Python%20certificate.pdf">
+              <img src="./assets/Certificates/thumbnails/python_skill_india_thumb.png" width="100%" alt="Skill India Python Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>Skill India Digital / Reliance Foundation</b><br/>
+            <sub><i>Python Programming (90-Hr)</i> (Jul 2026)</sub><br/>
+            <small>NSDC Authorized online skilling certification.</small><br/>
+            <a href="./assets/Python%20certificate.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" align="center" valign="middle">
+            <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20HTML%20IIT%20B%20Springboard.pdf">
+              <img src="./assets/Certificates/thumbnails/html_iitb_thumb.png" width="100%" alt="IIT Bombay HTML Certificate Preview"/>
+            </a>
+          </td>
+          <td width="65%" valign="top">
+            <b>IIT Bombay (Spoken Tutorial)</b><br/>
+            <sub><i>HTML Web Technologies</i> (Jan 2024)</sub><br/>
+            <small>Score: <b>67.50%</b> | 1 Credit | Code: <code>3735676SFR</code></small><br/>
+            <a href="./assets/Certificates/KRISHNAKANT-GARHE-Participant-Certificate%20HTML%20IIT%20B%20Springboard.pdf"><code>[View Full PDF]</code></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
